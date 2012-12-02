@@ -10,7 +10,6 @@
  * Ambassodring CampusParty
  * highlights of CPEurope
  * Pioneers will rock the boat - I love that brand
- * Mentoring StartupLive (Vienna and Copenhagen)
  * Stockholm is a bit colder - a view on tech in the north
  * Google should start making products...
  * Why would you ever go for non performance marketing?
