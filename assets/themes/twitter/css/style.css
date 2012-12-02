@@ -22,6 +22,20 @@ header {
 	text-transform:capitalize;
 }
 
+
+/* social media in the side bar */
+
+.post {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.post img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
 .social-media {
 	font-size: 20px;
 	margin: 10px 0 20px 0;

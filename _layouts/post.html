@@ -3,18 +3,23 @@ layout: default
 ---
 {% include JB/setup %}
 
-<div>
-  <h2 class="post-title">{{ page.title }}</h2>
-  {% if page.tagline %} <p class="lead">{{ page.tagline }}</p>{% endif %}
-  <p class="date">{{ page.date | date_to_long_string }}</p>
-</div>
+<div class="post">
+	<div>
+	  <p class="date">{{ page.date | date_to_long_string }}</p>
+	  <h2 class="post-title">{{ page.title }}</h2>
+	  {% if page.tagline %} <p class="lead">{{ page.tagline }}</p>{% endif %}
+	  
+	</div>
 
 
-<div>
-{{ content }}
-</div>
+	<div>
+	{{ content }}
+	</div>
 
-<div>
-    tagged: {% assign tags_list = page.tags %}
-    {% include JB/tags_list %}
+	{% if page.tags != empty %}
+	<div>
+	    tagged: {% assign tags_list = page.tags %}
+	    {% include JB/tags_list %}
+	</div>
+	{% endif %}
 </div>
