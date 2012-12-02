@@ -25,15 +25,25 @@ header {
 
 /* social media in the side bar */
 
-.post {
-	margin-top: 25px;
-	margin-bottom: 25px;
+.posts .post {
+	margin-bottom: 50px;
 }
 
 .post img {
     display: block;
     margin-left: auto;
     margin-right: auto
+}
+.post .date {
+	margin-bottom: -5px;
+}
+
+.post .post-content {
+	margin-top: 25px;
+}
+
+.post .post-meta {
+	margin: 25px 0;
 }
 
 .social-media {

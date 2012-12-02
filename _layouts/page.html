@@ -2,11 +2,12 @@
 layout: default
 ---
 {% include JB/setup %}
-
-    <div>
-    	<h2>{{ page.title }}</h2>
-     	{% if page.tagline %} <p class="lead">{{ page.tagline }}</p>{% endif %}
-    </div>
+	{% if page.title %}
+	    <div>
+	    	<h2>{{ page.title }}</h2>
+	     	{% if page.tagline %} <p class="lead">{{ page.tagline }}</p>{% endif %}
+	    </div>
+    {% endif %}
     <div>
     {{ content }}
    	</div>
