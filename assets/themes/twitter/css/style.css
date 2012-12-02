@@ -40,6 +40,9 @@ header {
 
 .post .post-content {
 	margin-top: 25px;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: justify;
 }
 
 .post .post-meta {
