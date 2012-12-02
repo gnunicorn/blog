@@ -4,26 +4,26 @@ layout: default
 {% include JB/setup %}
 
 <div class="post">
-    <p class="date">{{ post.date | date_to_long_string }}</p>
+    <p class="date">{{ page.date | date_to_long_string }}</p>
     <h2 class="post-title">
-      <span>{{ post.title }}</span>
+      <span>{{ page.title }}</span>
     </h2>
 
-  {% if post.author %}
+  {% if page.author %}
     <div class="post-guest">
       This is a guest post by
-      {% if post.author.link %}
-        <a href="{{post.author.link">{{post.author.name | capitalize}}</a>
+      {% if page.author.link %}
+        <a href="{{page.author.link">{{page.author.name | capitalize}}</a>
       {% else %}
-        {{ post.author.name | capitalize }} 
+        {{ page.author.name | capitalize }} 
       {% endif %}
     </div>
   {% endif %}
 
 	<div class="post-content">
-	  {% if post.image %}
-	    <a class="header-image" href="{{ BASE_PATH }}{{ post.url }}">
-	      <img alt="{{ post.title }}" src="{{ post.image }}" />
+	  {% if page.image %}
+	    <a class="header-image" href="{{ BASE_PATH }}{{ page.url }}">
+	      <img alt="{{ page.title }}" src="{{ page.image }}" />
 	    </a>
 	  {% endif %}
 
