@@ -2,4 +2,19 @@
 layout: default
 ---
 {% include JB/setup %}
-{% include themes/twitter/post.html %}
+
+<div>
+  <h2>{{ page.title }}</h2>
+  {% if page.tagline %} <p class="lead">{{ page.tagline }}</p>{% endif %}
+  <p class="date">{{ page.date | date_to_long_string }}</p>
+</div>
+
+
+<div>
+{{ content }}
+</div>
+
+<div>
+    tagged: {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
+</div>

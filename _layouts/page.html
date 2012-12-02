@@ -2,4 +2,12 @@
 layout: default
 ---
 {% include JB/setup %}
-{% include themes/twitter/page.html %}
+
+    <div>
+    	<h2>{{ page.title }}</h2>
+     	{% if page.tagline %} <p class="lead">{{ page.tagline }}</p>{% endif %}
+    </div>
+    <div>
+    {{ content }}
+   	</div>
+
