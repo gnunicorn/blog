@@ -29,13 +29,14 @@ layout: page
         </a>
       {% endif %}
       {% if post.description and post.description != "" %}
-        {{ post.description | markdownify }} <a href="{{ BASE_PATH }}{{ post.url }}">read&nbsp;more</a>
+        {{ post.description | markdownify }} 
       {% else %}
         {{ post.content | markdownify }}
       {% endif %}
     </div>
     <div class="post-meta">
-       // <a class="comments_action" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread">Leave a comment</a>
+       {% if post.description and post.description != "" %}// <a href="{{ BASE_PATH }}{{ post.url }}">read&nbsp;more</a> <br>{% endif %}
+       // <a class="comments_action" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread">leave comment</a>
     </div>
   </div>
 {% endfor %}
