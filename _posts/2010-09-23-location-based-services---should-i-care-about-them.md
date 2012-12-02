@@ -9,7 +9,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-_Disclaimer: I published this Post originally over at [Social, Media & Company](http://socialmediaandcompany.blogspot.de/2010/09/should-i-care-about-location-based.html. This is cross-post_
+_Disclaimer: I published this Post originally over at [Social, Media & Company](http://socialmediaandcompany.blogspot.de/2010/09/should-i-care-about-location-based.html). This is cross-post_
 
 Even before the <a href="http://mashable.com/2010/09/09/scvngr-app-downloads/">latest peak in downloads</a>&nbsp;of <a href="http://www.scvngr.com/">scvngr</a>&nbsp;&nbsp;Location-based Services had a huge buzz in the internet community; <a href="http://foursquare.com/">Foursquare</a>'s and <a href="http://gowalla.com/">Gowalla</a>'s (both launched last year) <a href="http://techcrunch.com/2010/07/07/foursquare-gowalla-stats/">growing user base</a>&nbsp;put Facebook under heavy pressure. So heavy that <a href="http://blog.facebook.com/blog.php?post=418175202130">about a month ago they launched</a> their competitive service called <a href="http://www.facebook.com/places/">Facebook Places</a>.
 
