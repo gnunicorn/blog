@@ -10,7 +10,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-_Disclaimer: I published this Post originally over at [our Company Blog](http://blog.dieBeschleuniger.de) of [Club der Beschleuniger eG](http://www.dieBeschleuniger.de). You can find the original of this cross-post [here](http://blog.diebeschleuniger.de/2011/08/so-what-language-are-you-programming-in.html).
+_Disclaimer: I published this Post originally over at [our Company Blog](http://blog.dieBeschleuniger.de) of [Club der Beschleuniger eG](http://www.dieBeschleuniger.de). You can find the original of this cross-post [here](http://blog.diebeschleuniger.de/2011/08/so-what-language-are-you-programming-in.html)._
 
 It seems to be the one defining question for developers nowadays, at least from the outside. I have spent a lot of time at socializing events talking to all kinds of people about the Beschleuniger-concept lately. Usually when we've talked for a while and the person is interested this question gets asked. Often followed by _"see, we currently do [ABC] and we are looking for someone with years of experience with that language and the field [XYZ]. So, what do you think about it?"_
 
@@ -30,7 +30,7 @@ So even when I meet someone for the first time, if he is&nbsp; **defendant for a
 
 Of course I always question my picture of community and the people in it. That is why I don't pick on languages: I don't want put the other person in the role of defending what he is doing but rather try to get beyond that and figure out, whether he is actually a good programmer. But this works the other way round, too: if a **company is&nbsp;looking for developer for XYZ, they&nbsp;associate&nbsp;themselves**&nbsp;with that language, their community and its&nbsp; **way to do things**. Making you more attractive to some people while least attractive to others.
 
- **To put it in a nutshell**: The language doesn't matter that much, as long as the developer is good. Be aware of the fact that by using certain languages you also attract certain (kinds of) people. So don't search for people you need but more for the community whose work style you want your company to work with. Or even better: drop the language and start looking for **Great Developers** instead.
+**To put it in a nutshell**: The language doesn't matter that much, as long as the developer is good. Be aware of the fact that by using certain languages you also attract certain (kinds of) people. So don't search for people you need but more for the community whose work style you want your company to work with. Or even better: drop the language and start looking for **Great Developers** instead.
 
 <small>¹Most of them are male, that is why I used the male terms here. Sad but true.<br/>
 ² <a href="http://37signals.com/rework/">Rework</a>, ISBN-13: <a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745">978-0307463746</a>, Chpt. "Hiring", &nbsp;p. 213</small>
