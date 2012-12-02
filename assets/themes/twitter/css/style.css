@@ -17,3 +17,7 @@ header {
 .topbar .btn {
   border: 0;
 }
+
+.post-title {
+	text-transform:capitalize;
+}
