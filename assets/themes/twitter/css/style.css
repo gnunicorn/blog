@@ -45,6 +45,13 @@ header {
 	line-height: 24px;
 	text-align: justify;
 }
+
+.post .post-content .header-image img{
+	width: 85%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
 .post .post-content p {
 	margin-bottom: 30px;
 }
