@@ -20,6 +20,9 @@ theme :
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link rel="stylesheet" href="{{ HOME_PATH }}assets/fonts/icomoon79240/style.css" />
+
+  <!--[if lte IE 7]><script src="{{ HOME_PATH }}assets/fonts/icomoon79240/lte-ie7.js"></script><![endif]-->
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -54,8 +57,18 @@ theme :
             {% include JB/pages_list %}
           </ul>
           <h4>About me</h4>
-          :)
-        
+          <img src="{{ HOME_PATH }}assets/content/pages/ben_012_bw.jpg" class="img-polaroid">
+          <div class="row">
+            <div class="span glyphs">
+              <ul>
+                <li><a href="{{ HOME_PATH }}atom.xml">&#xe00a;</a></li>
+                <li><a href="https://twitter.com/amasoean">&#xe009;</a></li>
+                <li><a href="https://www.facebook.com/amasoean">&#xe008;</a></li>
+                <li><a href="https://github.com/ligthyear">&#xe00b;</a></li>
+                <li><a href="mailto: me [at] create-build-execute dot com">&#xe00f;</a></li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
 
