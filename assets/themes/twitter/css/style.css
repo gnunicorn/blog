@@ -47,7 +47,7 @@ header {
 }
 
 .post .post-content .header-image img{
-	width: 85%;
+	max-width: 85%;
 	margin-top: 15px;
 	margin-bottom: 15px;
 }

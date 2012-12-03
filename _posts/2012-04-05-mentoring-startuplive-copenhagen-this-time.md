@@ -4,7 +4,7 @@ title: "Mentoring StartupLive: Copenhagen this time"
 description: ""
 tags: ["startupLive", "mentor", "copenhagen"]
 
-image: {{HOME_PATH}}/assets/content/posts/startup_live_cph.png
+image: /assets/content/posts/startup_live_cph.png
 ---
 {% include JB/setup %}
 
