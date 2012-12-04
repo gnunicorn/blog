@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "It's time for a change  - inside recommendations"
+title: "It's time for a change"
+tagline: "Why the existing recommendation systems suck in the long run: they can't change."
 description: "
 Lately there is has been a vivid and fruitful discussion about the <a href='http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles.html'>filter bubble</a> created by recommendation services all around is. The hyposis is that filtering data based on what we want to hear will stop exposing us to stuff we don't want to know but should. And the more this kind of filtering happens the less people care about stuff outside their circle which could have potentially a bad influence for society. While thinking about that problem I realised that recommendations - as of today - don't work in the long run anyways because they are too static."
 
