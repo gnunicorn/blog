@@ -8,6 +8,7 @@ layout: default
     <h2 class="post-title">
       <span>{{ page.title }}</span>
     </h2>
+    {% if page.tagline %}<p class="text-info"> {{ page.tagline | capitalize }}</p>{% endif %}
 
   {% if page.author %}
     <div class="post-guest">

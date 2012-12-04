@@ -10,6 +10,7 @@ layout: page
     <h2 class="post-title">
       <span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
     </h2>
+    {% if post.tagline %}<p class="text-info"> {{ post.tagline | capitalize }}</p>{% endif %}
 
   {% if post.author %}
     <div class="post-guest">
