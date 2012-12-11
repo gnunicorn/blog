@@ -9,8 +9,6 @@ image: /assets/content/posts/programming_in_sweeden_screenshot.png
 ---
 {% include JB/setup %}
 
-![Programming in Sweden](/assets/content/posts/programming_in_sweeden_screenshot.png)
-
 The European Union recently published their numbers of the Digital Agenda for Europe online. On top of providing the data for download, they also [provide a visualisation and graphing tool](https://ec.europa.eu/digital-agenda/en/graphs) usable for anyway, which allow you to easily cross-link various indicators they are tracking over the last couple of years - real accessibility.
 
 While playing around with it, I noticed something odd, when looking into my most favourite topic: programming, you can see the screenshot on top. Aside form the all known fact, that the highest numbers are in the scandinavian countries (namely norway, sweden and finland), you probably also noticed that **this number more than doubled within two years (2009-2011) in sweden** - wow. So, I am wondering: what happened in Sweden 2009/2010 that made so many more people programm? I doubt this is just the "growin number of young people", because from what I know they have the same problem of an olding population.
