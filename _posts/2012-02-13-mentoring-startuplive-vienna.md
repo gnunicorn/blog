@@ -4,6 +4,8 @@ title: "Mentoring StartupLive Vienna"
 description: "It is odd how some things go. I only went to a dinner the other day a friend of mine asked me to get to because he couldn't. There I met up with some old people from the startup community again. And one told me, that they'll be going to vienna to mentor at StartupLive and that they are still looking for Mentors with tech skills. And not a full week later I am having the flight tickets in my hand. So I am very proud to announce: I'll be going to Vienna to [Mentor at StartupLiveMarch 30th](http://startuplive.in/vienna/6/)."
 category: 
 tags: ["startupLive", "mentor", "vienna"]
+
+image: /assets/content/posts/startup_live_vienna.png
 ---
 {% include JB/setup %}
 
