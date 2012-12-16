@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fully Flexible, hihgly extendable CMS with i18n support - introducing HTML5 Static Pages"
+title: "Fully Flexible, highly extendable CMS with I18N support - introducing HTML5 Static Pages"
 description: "Seriously. You want full-flexibility in Design and Content? Then, why even bother the pain of a half-ass content management solutions like plone or django-cms with their crappy WYSIWIG editor that spits out bad HTML and you end up writing your own code any ways? And then those frameworks actually force a frame on you (hence the name) in which you have to stay and make everything you want to do impossible. And their performance sucks."
 category: 
 tags: ["html5", "product pitch", "CMS"]
