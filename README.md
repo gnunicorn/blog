@@ -1,11 +1,8 @@
 # Upcoming Topics // to write about
 
- * What is *their* exit 
  * Stop talking - start building
- * technology unequals product
  * OpenTechSchool - thoughts and ideas
  * your job postings fix no problems
- * Ambassodring CampusParty
  * highlights of CPEurope
  * Stockholm is a bit colder - a view on tech in the north
  * Google should start making products...
