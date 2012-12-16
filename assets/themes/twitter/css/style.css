@@ -22,6 +22,28 @@ header {
 	text-transform:capitalize;
 }
 
+footer {
+	border-top: 2px solid #eee;
+	background: #777;
+	color: #eee;
+	margin-top: 50px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	min-height: 100px;
+	font-size: 0.8em;
+}
+
+footer a,
+footer a:hover,
+footer a:visited {
+	color: #aaa;
+}
+
+footer .imprint {
+	padding-top: 30px;
+	text-align: center;
+}
+
 
 /* social media in the side bar */
 
