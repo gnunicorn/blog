@@ -3,7 +3,7 @@ layout: post
 title: "Ambassador for the Entrepreneurship Stage at CampusParty"
 description: ""
 category: 
-tags: ["ambassador", "campusparty", "conference", "festival", "entrepreneurship"]
+tags: ["ambassador", "campusparty", "conference", "festival", "entrepreneurship", "startups"]
 ---
 {% include JB/setup %}
 

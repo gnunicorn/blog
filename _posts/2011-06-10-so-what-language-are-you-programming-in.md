@@ -6,7 +6,7 @@ description: "It seems to be the one defining question for developers nowadays, 
 
 I always stumpled on that question. Could I tell a potential project partner that I think the programming language or technology they are using is bad match and doesn't (quite) fit their needs? Would he even hear the message or just think that I am just another programmer defending his most favourite language by goofing on other languages? That is not the impression I want to give. So what to tell him¹? For the first few times I said something useless and switched the topic. But that was very unsatisfying, so I sat down and looked deeper into this topic a few weeks ago."
 
-tags: []
+tags: ["mobile", "html5", "programming", "tech", "jobs"]
 ---
 {% include JB/setup %}
 

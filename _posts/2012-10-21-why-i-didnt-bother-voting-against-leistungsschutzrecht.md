@@ -3,7 +3,7 @@ layout: post
 title: "Why I didn't bother voting against Leistungsschutzrecht"
 description: "There has been quite some buzz about the Leistungsschutzrecht-Law here in Germany, especially in Berlin over the last few weeks and month up to the point that recently an [online petition against it failed miserably](http://www.spiegel.de/netzwelt/netzpolitik/online-petition-gegen-leistungsschutzrecht-gescheitert-a-860132.html). Now I am the last one that thinks we should implement laws in order to save anyones business model, but when asked whether I voted, I seriously didn't bother. The opposite actually, I am in favour of that law, maybe then they'd eventually learn their lesson."
 category: 
-tags: ["political", "juristiction", "fail", "media"]
+tags: ["political", "juristiction", "fail", "media", "thoughts"]
 ---
 {% include JB/setup %}
 

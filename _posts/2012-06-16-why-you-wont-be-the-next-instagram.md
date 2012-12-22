@@ -3,7 +3,7 @@ layout: post
 title: "Why you won't be the next Instagram"
 tagline: "Two very important things to keep in mind about the Instagram-Facebook-Deal"
 description: "Since [Facebook announced that they'll be buying Instagram - the photosharing service of only one and half years of age - for roughly $1Billion in April](http://newsroom.fb.com/News/321/Facebook-to-Acquire-Instagram) the Berlin Startup scene is in a deuce of a stir. You won't believe how often I heard 'but you never know, this could be the next Instagram' the last few month. Then my honest answer is 'No. It is not and it won't be'. The reason lies in two important aspects only very few people seem to understand: **What Facebook actually bought and Why they paid that a price for it**. So let me explain those two to you and why I indeed do think you have to think about those and what that actually means. Because this indeed is caesura in why and how companies are acquired. "
-tags: ["facebook", "aquisition", "instagram", "behind-the-curtain"]
+tags: ["facebook", "aquisition", "instagram", "thoughts"]
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title: "What's in it for them?"
 description: "There have been plenty discussions on how it is to get into the bed with an investor. Especially venture capital is in discussion all the time. Though at least those have a clear motive, when investing: making more money with the company and eventually exit it through selling the shares (or the whole company). But with only few venture capital funds investing in Germany, a lot of money is invested from other parties and they are not always having that same motive in mind: so take a close look around the environment the investor is embedded in and follow the money trail.<br><br>Only this way you can be sure what the investor is really after with that investment and you might want to reconsider doing it as their objective might be damaging for you business in the long run. Down here I grouped typical Investors and explain why they do it, what this might mean for your business and try to answer the question: **Investment, cui bono**?"
 category: 
-tags: []
+tags: ["investment", "startups", "startup scene", "berlin", "germany", "thoughts"]
 ---
 {% include JB/setup %}
 
