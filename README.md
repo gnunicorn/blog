@@ -2,4 +2,5 @@
 
 
  * app market systems are broken
- * german privacy vs. the cloud // https://www.datenschutzzentrum.de/material/themen/gesund/patient.htm && https://www.datenschutzzentrum.de/material/recht/stgb.htm#203
+ * the pizza.de urteil and what businesses are in jeapordy
+ * why I do not name names
