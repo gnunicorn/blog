@@ -1,4 +1,4 @@
 # Upcoming Topics // to write about
 
- * app market systems are broken
+ * the gym that pays you
  * why I do not name names
