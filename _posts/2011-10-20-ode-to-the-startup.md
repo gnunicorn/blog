@@ -17,11 +17,11 @@ Last week I presented "Club der Beschleuniger eG" in public for the first time a
 
 So, without any further introduction I present to you the <a href="http://www.techberlin.com/post/11605973919/ode-to-startups-its-poetry-time-above-a-poem">re-recording I did for techberlin.com</a>:
 
-{% raw %}<iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" src="http://www.youtube.com/embed/9L0pSN-qY9k?wmode=opaque" width="640">&nbsp;</iframe> {% endraw %}
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" src="http://www.youtube.com/embed/9L0pSN-qY9k?wmode=opaque" width="640">&nbsp;</iframe>
 
 
 and the live recording of the event. So that you can get a feeling about the atmosphere there. And as a prove I really did present it in front of other people:
 
-{% raw %}<iframe allowfullscreen="allowfullscrenn" frameborder="0" height="360" src="http://www.youtube.com/embed/Lahbl9gB93k?wmode=opaque" width="480">&nbsp;</iframe>{% endraw %}
+<iframe allowfullscreen="allowfullscrenn" frameborder="0" height="360" src="http://www.youtube.com/embed/Lahbl9gB93k?wmode=opaque" width="480">&nbsp;</iframe>
 
 I'd be happy to know what you think of it - just leave a comment.
