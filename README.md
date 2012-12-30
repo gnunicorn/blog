@@ -2,7 +2,6 @@
 
  * the gym that pays you
  * alcohol or code
- * Berlin you have no infrastructure (nov 2012)
  * settle with the framework that makes things hard
  * do something new every time
  * why I do not name names
