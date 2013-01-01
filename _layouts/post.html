@@ -33,6 +33,8 @@ layout: default
 
 	{% if page.tags != empty %}
 	<div class="post-meta">
+     // Tagged: {% assign tags_list = page.tags %}
+     {% include JB/tags_list %}
     <div class="row">
       <div class="span1" style="padding-top: 20px">
           // Share:
