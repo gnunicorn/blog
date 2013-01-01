@@ -144,6 +144,31 @@ theme :
 
     });
     </script>
+    <script type="text/javascript" src="/assets/ssp/jquery.socialshareprivacy.js"></script>
+    <script type="text/javascript">
+      jQuery(document).ready(function($){
+        if($('#socialshareprivacy').length > 0){
+          $('#socialshareprivacy').socialSharePrivacy({
+            'css_path': '/assets/ssp/socialshareprivacy/socialshareprivacy.css',
+            'services': {
+              'facebook': {
+                'dummy_img': '/assets/ssp/socialshareprivacy/images/dummy_facebook_en.png',
+                'language': "en_US",
+              },
+              'twitter': {
+                'dummy_img': '/assets/ssp/socialshareprivacy/images/dummy_twitter.png',
+                'language': "en",
+              },
+              'gplus': {
+                'dummy_img': '/assets/ssp/socialshareprivacy/images/dummy_gplus.png',
+                'language': "en",
+              }
+            }
+          }); 
+        }
+      });
+    </script>
+  …
   </body>
 </html>
 
