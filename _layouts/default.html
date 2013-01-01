@@ -92,10 +92,12 @@ theme :
         <div class="row">
           <div class="span5">
             <h5>Latest tweet</h5>
-            <div class="glyphs" style="margin: 3px 10px; width: 50px; text-align: center; float: left">
+            <div class="glyphs" style="margin: 3px 0; width: 70px; text-align: center; float: left">
               <a href="http://twitter.com/amasoean"><span style="font-size: 42px;">&#x24;</span></a>
             </div>
-            <div id="latest-tweet">
+            <div id="latest-tweet" style="margin-left: 75px">
+              <p class="text"></p>
+              <a href="#" class="link"><span class="timestamp">&nbsp;</span></a>
             </div>
           </div>
           <div class="span3 imprint">
@@ -127,7 +129,11 @@ theme :
           return tweet.to_user_id === 0;
         })
         var latest_tweet = tweets[0];
-        $("#latest-tweet").html(latest_tweet.text);
+        var $tweet = $('#latest-tweet');
+        var tweet_date = new Date(latest_tweet.created_at);
+        $tweet.find(".text").html(latest_tweet.text)
+        $tweet.find(".timestamp").html(tweet_date.toLocaleDateString() + " " + tweet_date.toLocaleTimeString())
+        $tweet.find(".link").attr("href", "http://twitter.com/amasoean/status/" + latest_tweet.id_str)
       });
 
     });

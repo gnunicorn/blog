@@ -34,7 +34,7 @@ footer {
 	text-shadow: #111 0 0 5px;
 }
 
-footer #latest-tweet {
+footer #latest-tweet .text {
 	font-size: 1.2em;
 }
 
