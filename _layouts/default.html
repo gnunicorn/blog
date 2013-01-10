@@ -65,7 +65,7 @@ theme :
           <img src="{{ HOME_PATH }}assets/content/pages/ben_012_bw.jpg" class="img-polaroid">
           <div class="row glyphs social-media">
             <ul>
-              <li><a href="https://twitter.com/amasoean">&#xe009;</a></li>
+              <li><a href="https://twitter.com/createbuildexec">&#xe009;</a></li>
               <li><a href="https://www.facebook.com/amasoean">&#xe008;</a></li>
               <li><a href="https://plus.google.com/104898591568170720911">&#xe007;</a></li>
               <li><a href="http://www.linkedin.com/in/benjaminkampmann">&#xe011;</a></li>
@@ -99,7 +99,7 @@ theme :
           <div class="span5">
             <h5>Latest tweet</h5>
             <div class="glyphs" style="margin: 3px 0; width: 70px; text-align: center; float: left">
-              <a href="http://twitter.com/amasoean"><span style="font-size: 42px;">&#x24;</span></a>
+              <a href="http://twitter.com/createbuildexec"><span style="font-size: 42px;">&#x24;</span></a>
             </div>
             <div id="latest-tweet" style="margin-left: 75px">
               <p class="text"></p>
@@ -129,7 +129,7 @@ theme :
     <script type="text/javascript">
     $(function() {
       var tweets;
-      $.getJSON("http://search.twitter.com/search.json?q=from:@amasoean&callback=?", function(data) {
+      $.getJSON("http://search.twitter.com/search.json?q=from:@createbuildexec&callback=?", function(data) {
         tweets = $.grep(data.results, function(tweet){
           // only those tweets, which are no responds
           return tweet.to_user_id === 0;
@@ -139,7 +139,7 @@ theme :
         var tweet_date = new Date(latest_tweet.created_at);
         $tweet.find(".text").html(latest_tweet.text)
         $tweet.find(".timestamp").html(tweet_date.toLocaleDateString() + " " + tweet_date.toLocaleTimeString())
-        $tweet.find(".link").attr("href", "http://twitter.com/amasoean/status/" + latest_tweet.id_str)
+        $tweet.find(".link").attr("href", "http://twitter.com/createbuildexec/status/" + latest_tweet.id_str)
       });
 
     });
