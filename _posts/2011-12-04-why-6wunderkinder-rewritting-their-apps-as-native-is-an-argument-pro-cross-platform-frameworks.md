@@ -2,8 +2,7 @@
 layout: post
 title: "Why 6Wunderkinder rewritting their apps as native is an argument PRO cross platform frameworks"
 description: "Since the [6Wunderkinder announced in September](http://www.6wunderkinder.com/blog/wunderlist-for-android-rebuilt-relaunched-and-really-awesome) that they have rewritting their Android app to go native, there is quiet the buzz in the local mobile dev community as this being a strong case for going native in the first place. While actually it is the opposite."
-
-tags: ["wunderkinder", "mobile", "lean", "native", "android", "ios", "titanium"]
+tags: ["mobile", "lean", "native", "android", "ios"]
 ---
 {% include JB/setup %}
 

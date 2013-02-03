@@ -4,7 +4,7 @@ title: "Berlin risks its spirit"
 tagline: "Berlin runs the risk of ruining its vibrant spirit and lose it forever. But there is still chance to make this something permanent. "
 description: "The current state of Berlin is often compared with the spirit and vibrance of cities like Hamburg in the 70th or Chicago, New York and Miami in the 80th. With its wild art- and culuture scene, with the constant challange of what is right and what is wrong, what is moral and how the society should work. But while we know what these cities did to make them become these boring, almost dead places for entrepreneurship they are today, Berlin officials are not taking the lessons to make this something long-lasting for the city."
 category: 
-tags: ["berlin", "startup-scene", "thought"]
+tags: ["berlin", "startup scene", "thoughts"]
 ---
 {% include JB/setup %}
 The current state of Berlin is often compared with the spirit and vibrance of cities like Hamburg in the 70th or Chicago, New York and Miami in the 80th. With its wild art- and culuture scene, with the constant challange of what is right and what is wrong, what is moral and how the society should work. But while we know what these cities did to make them become these boring, almost dead places for entrepreneurship they are today, Berlin officials are not taking the lessons to make this something long-lasting for the city.

@@ -4,7 +4,7 @@ title: "Quo vadis, Berlin Startup Scene?"
 tagline: "Is this going anywhere or are we just slacking off?"
 description: "Recently I've pulled myself a little more out of the huge amount of startup events going on here in Berlin every day. As the [doer I simply am](/2012/01/16/stop-talking-start-building/), doing these socialising things cost me energy and are something is nothing I particular enjoy all the time, but I see the benefits and therefore try to make an effort. But lately is has just become to much, so much that there were weeks I was out every day drinking, without spending as much as a Euro. But at the end of that week I was getting really depressed because the downside is, you are not getting anything done."
 category: 
-tags: ["thought", "startup scene", "berlin"]
+tags: ["thoughts", "startup scene", "berlin"]
 ---
 {% include JB/setup %}
 

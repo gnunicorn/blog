@@ -4,7 +4,7 @@ title: "Job Posting don't solve the Dev Lack Problem"
 tagline: "Don't buy into those new tech job offer websites, they don't work as they are broken by design."
 description: "Lately there has been the trend of creating job-posting boards and job-newsletters with a strong focus on the startup scene in Berlin. And if you look closely you'll find the bigger amount of job postings there are for tech positions, very often the \"CTO\" even offered shares. As a result I lately got asked more often, \"shall we post this on this new platform/blog/newsletter XXX? It seems pretty slick and nice. What do you think?\". My answer is simple and clear: \"Don't. Stop wasting your money. That won't bring you anything.\""
 category: 
-tags: ["job", "tech", "startup scene"]
+tags: ["jobs", "tech", "startup scene"]
 ---
 {% include JB/setup %}
 

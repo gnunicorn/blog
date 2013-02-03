@@ -3,7 +3,7 @@ layout: post
 title: "Entrepreneursip is English for fixing real world problems"
 description: "Since I wrote about the connection between arts and entrepreneurship last month, one thought stuck with me. As you recall I made the comparison in artists and entrepreneurs as their main motivation being seeing a problem in the existing system to prove them having the same roots. But while artists express that rage to make a mark, entrepreneurs sit down and try to fix it (for e.g. by doing business)."
 category: 
-tags: ["entrepreneurship", "problems", "thought"]
+tags: ["entrepreneurship", "problems", "thoughts"]
 ---
 {% include JB/setup %}
 

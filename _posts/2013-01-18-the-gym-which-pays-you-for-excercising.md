@@ -4,7 +4,7 @@ title: "The gym which pays you for exercising"
 tagline: "A currency based on energy produced would fundamentally change how we do business."
 description: "I always found the system of public gyms for fitness kinda odd. A place, where you go to get fat out of your system, which you've knowingly put there by eating more than you need. And not only are you trying to get rid of this energy, this process takes even more energy (electricity) and they charge you for it. So you go to a place, where you consume energy to remove energy, you've consumed earlier. And you pay for that. What a silly concept."
 category: 
-tags: ["thoughts", "concepts", "gym"]
+tags: ["thoughts", "concepts", "gym", "payment"]
 ---
 {% include JB/setup %}
 

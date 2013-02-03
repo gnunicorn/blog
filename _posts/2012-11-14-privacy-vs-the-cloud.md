@@ -4,7 +4,7 @@ title: "Privacy vs. the Cloud"
 tagline: "Existing cloud solutions are barely compliant to German privacy requirements. But it gets worse."
 description: "a project I am involved with. Quite honestly, for many projects, where the only thing you are holding as private information are things you mirrored from Facebook, I do not really see the point why users should be allowed to fight against your service. But for this particular one, I was looking a bit closer because not only is this really sensitive data but on top the target customer group is highly aware and concerned about this."
 category: 
-tags: ["jurisdiction", "privacy", "cloud"]
+tags: ["jurisdiction", "privacy", "cloud", "hosting"]
 ---
 {% include JB/setup %}
 
