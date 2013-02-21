@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 
-<h4 class="text-info">My name is Benjamin Kampmann. I am a self-tought software engineer and product creator. I consule and advice tech companies and entrepreneurs on product creation and -development.</h4>
+<h4 class="text-info">My name is Benjamin Kampmann. I am a self-tought software engineer and product creator. I consult and advice tech companies and entrepreneurs on product creation and -development.</h4>
 
 Before coming to Berlin to work as the tech product manager for a small startup for three years, I worked at a multimedia startup in Barcelona, Spain.
 
