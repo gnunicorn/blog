@@ -185,7 +185,7 @@ theme :
       $.getJSON("http://search.twitter.com/search.json?q=from:@createbuildexec&callback=?", function(data) {
         tweets = $.grep(data.results, function(tweet){
           // only those tweets, which are no responds
-          return tweet.to_user_id === 0;
+          return !tweet.to_user_id;
         })
         var latest_tweet = tweets[0];
         var $tweet = $('#latest-tweet');
