@@ -136,6 +136,11 @@ theme :
           <h5>Want me to help you with your company or product?</h5>
           <p>The first discussions with thoughts and feedback off the top of my head is free - as long as you pay for lunch/dinner. Just <a href="mailto: me at create-build-execute dot com" >email me</a>.</p>
 
+      
+          <h5  style="margin-top: 30px;">MyHats</h5>
+
+          <iframe src="http://www.mihats.com/widget.html#benjaminkampmann" frameborder="0" height="500" class="span3" style="margin-left: -20px;"></iframe>
+
         </div>
       </div>
 
@@ -180,7 +185,7 @@ theme :
       $.getJSON("http://search.twitter.com/search.json?q=from:@createbuildexec&callback=?", function(data) {
         tweets = $.grep(data.results, function(tweet){
           // only those tweets, which are no responds
-          return tweet.to_user_id === 0;
+          return !tweet.to_user_id;
         })
         var latest_tweet = tweets[0];
         var $tweet = $('#latest-tweet');

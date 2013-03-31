@@ -121,3 +121,11 @@ footer .imprint {
 .social-media ul li {
 	display: inline;
 }
+
+.footnotes {
+	font-size: 0.78em;
+}
+
+.post .post-content .footnotes p {
+	margin-bottom: 0;
+}
