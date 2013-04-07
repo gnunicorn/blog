@@ -2,13 +2,13 @@
 layout: post
 title: "Get out of the way"
 tagline: "The number one mistake of todo list apps and project management tools in general."
-description: ""
+description: "So [Google recently launched keep](http://www.latimes.com/business/technology/la-fi-tn-google-keep-android-20130320,0,7883861.story), basically an Evernote competitor with some nice looking features like check-lists inside. As I had to do some larger groceries shopping for an extensive Thai-Food-Meal anyways, I decided to give it a spin. And after typing in the list of 50+ items into my phone - which takes way to long and I won't repeat again, I went out to get those groceries. Boy, never again. As so many other todo-list apps and project managers, also Google Keep fails on one major aspect: getting out of the way."
 category: 
 tags: ["insights", "thoughts", "tools", "products", "management", "todo list"]
 ---
 {% include JB/setup %}
 
-So Google recently launched keep, basically an Evernote competitor with some nice looking features like check-lists inside. As I had to do some larger groceries shopping for an extensive Thai-Food-Meal anyways, I decided to give it a spin. And after typing in the list of 50+ items into my phone - which takes way to long and I won't repeat again, I went out to get those groceries. Boy, never again. As so many other todo-list apps and project managers, also Google Keep fails on one major aspect: getting out of the way.
+So [Google recently launched keep](http://www.latimes.com/business/technology/la-fi-tn-google-keep-android-20130320,0,7883861.story), basically an Evernote competitor with some nice looking features like check-lists inside. As I had to do some larger groceries shopping for an extensive Thai-Food-Meal anyways, I decided to give it a spin. And after typing in the list of 50+ items into my phone - which takes way to long and I won't repeat again, I went out to get those groceries. Boy, never again. As so many other todo-list apps and project managers, also Google Keep fails on one major aspect: getting out of the way.
 
 There seems to be this tendency among todo list and project management tools to look more pretty than one another. Maybe it is related to the fact that the developers have to look at it every day and simply don't want to look at something ugly. But also in this case I am again pretty sure, they have not been actually **used** by the developers. Or at least not in a real-life scenario like buying stuff on a list (which isn't that uncommon), because then they'd have realised that making it look pretty, with a flat ui that displays also deleted items to beautifully and nicely draggable items is not actually what counts. Let me show you the screenshot I made when I was really pissed off it:
 
