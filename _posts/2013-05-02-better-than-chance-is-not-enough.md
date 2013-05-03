@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better than chance is not enough"
-tagline: "no user will use your product if isn't significantly better"
+tagline: "no user will use your product if it isn't significantly better"
 description: "In one of my recent articles I made the point that in our field of technology development, we rarely test whether the proposed solution actually adds significantly more value than if you'd replace it with random results. Today I want to discuss this from another angle a bit further. And that is from a product proposition perspective for the person using it, also know as, it \"always fails\"."
 category: 
 tags: ["insights", "thoughts"]
