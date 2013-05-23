@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Make unsustainable Systems "
-description: "Last week I was writing about how it should be [every companies goal to eventually become obsoletee](/2013/05/15/cease-to-exist/) as fundamental parts of their DNA in order to make sure they are working on something with high social impact - instead of just financial gain. The ignorant person I am, I totally turned a blind eye on the survivability-feature every system must have; if they don't they eat themselves up over time. Which is especially true for companies."
+description: "Last week I was writing about how it should be [every companies goal to eventually become obsolete](/2013/05/15/cease-to-exist/) as fundamental parts of their DNA in order to make sure they are working on something with high social impact - instead of just financial gain. The ignorant person I am, I totally turned a blind eye on the survivability-feature every system must have; if they don't they eat themselves up over time. Which is especially true for companies."
 category: 
 tags: ["insights", "thoughts", "legal", "companies"]
 ---
 {% include JB/setup %}
 
-Last week I was writing about how it should be [every companies goal to eventually become obsoletee](/2013/05/15/cease-to-exist/) as fundamental parts of their DNA in order to make sure they are working on something with high social impact - instead of just financial gain. The ignorant person I am, I totally turned a blind eye on the survivability-feature every system must have; if they don't they eat themselves up over time. Which is especially true for companies.
+Last week I was writing about how it should be [every companies goal to eventually become obsolete](/2013/05/15/cease-to-exist/) as fundamental parts of their DNA in order to make sure they are working on something with high social impact - instead of just financial gain. The ignorant person I am, I totally turned a blind eye on the survivability-feature every system must have; if they don't they eat themselves up over time. Which is especially true for companies.
 
 The theory behind this is the idea that systems become complex and unstructured as part of a defence mechanism to survive; in order to argue its existence every system strives for universality. You can find that easily when you have a founder talk about their new startup and how it is also applicable here and there and there, too and anyway it is basically going to rule the world. And because of that feature systems expand very quickly, even over fields where they are highly inefficient and even ineffective.
 
