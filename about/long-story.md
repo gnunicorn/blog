@@ -1,8 +1,10 @@
 ---
+published: true
 layout: page
 title: "My Bio - The Longer Story"
 description: ""
 ---
+
 {% include JB/setup %}
 
 
@@ -31,4 +33,4 @@ And I also learnt that you have to keep a close eye on the market you are target
 ## Berlin
 So when moving to Berlin, I was hired by a startup to do software development but got more and more into product development and project management. I also got very involved in the upcoming startup scene and improved my eye on product creation not only by observing and analysing what was going on very closely but also by giving advice and feedback to founders about their products and technologies and helped quite a few getting their things straight.
 
-As such I am now very connected in the Berlin Tech Startup Scene and internationally and mentor regularly at [StartupLive Weekends](http://startuplive.net), on the product and technology site of things. I recently cofounded the [OpenTechSchool](http://www.opentechschoool.org) initiative as well, a group of hands-on developers and tech-savy people here from Berlin organising and hosting coding- and tech-workshops.
+As such I am now very connected in the Berlin Tech Startup Scene and internationally and mentor regularly at [StartupLive Weekends](http://startuplive.net), on the product and technology site of things. I recently cofounded the [OpenTechSchool](http://www.opentechschool.org) initiative as well, a group of hands-on developers and tech-savy people here from Berlin organising and hosting coding- and tech-workshops.
