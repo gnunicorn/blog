@@ -22,4 +22,4 @@ I believe that this might simply doesn't exist; someone acting and communicating
 As a team, we will struggle and fight because we don't speak the same language and don't always agree on the goals and values. And yes, there will be compromises on the product to make it easier to sell. My next team will not just be put together because those are fun people to work with, I choose to work with people where that is not the case. **My next team will be uncomfortable for us, by choice.** But hopefully we have at least a shot in getting a business off the ground.
 
 {.small}
-BTW. I am still looking for smart online-marketing people to partner up with. I indeed do have some products I need help get into the market, so, if you are interested, [let me know](mailto: me at create-build-execute dot com).
+BTW. I am still looking for smart online-marketing people to partner up with. I indeed do have some products I need help get into the market, so, if you are interested, [let me know](mailto:me[at]create-build-execute[dot]com).
