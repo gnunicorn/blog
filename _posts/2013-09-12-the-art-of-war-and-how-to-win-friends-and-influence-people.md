@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "The Art of War and How to Win friends and influence people"
-description: ""
+description: "
+After [recommending two books explaining how to build and run modern business  last week](/2013/09/04/rework-and-delivering-happiness), I want to focus on people today. And surprisingly enough the by far best books in that regard aren't as young. As a matter of fact when reading them, you'll notice that even though one is over seventy and the other over two thousand years old, their content is still highly current and better than most recent writing. I am of course talking about **The Art of War and How To Win Friends And Influence People**."
 category: 
-tags: []
+tags: ["books", "recommendations"]
 ---
 {% include JB/setup %}
 
