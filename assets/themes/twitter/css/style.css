@@ -75,6 +75,16 @@ footer .imprint {
 	margin-bottom: 35px;
 }
 
+.post .left img {
+	margin: 10px;
+	float: left;
+}
+
+.post .right img {
+	margin: 10px;
+	float: right;
+}
+
 .post img,
 .post iframe {
     display: block;
