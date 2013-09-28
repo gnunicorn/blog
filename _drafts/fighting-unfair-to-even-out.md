@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Production is Research"
+description: ""
+tags: ["production", "thoughts", "lean"]
+---
+{% include JB/setup %}
 I am a man of principle. And I am very proud of it. But from time to time one has to rethink ones principles and rules of behaviors. The world changes and so do we, as humans and as society. And what we might considered a great principle at some point, turned out to be stupid or was circumstantial to an extend we didn't understand at the time. But when you stick to principles and rules solely based on the past this is called tradition and though might feel nice because it is familiar, might also not be appropriate at the time any longer. Like fighting fair because it is for a good cause.
 
 This thought first came to mind when I saw this great [TED talk about paying salaries in profit vs non-profit by X], striking the question: yes, why does one have to decide to get paid good or do good? That so doesn't make any sense. It should be the opposite actually, one should be paid better when doing good instead of bad. But with profit-driven capitalism ruling the world with an iron fist, it is those who gain the most profit from ones work, who pay the best. And the non-profit or for-good entities are always kept behind for the sole purpose that the profit-makers have the better people. But shouldn't we actually assign our best engineers to fix infrastructure in the under-developed world? Or find a bearable solution for energy sources for the world? 

@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Recoining terms: use for-good instead non-profit"
+description: ""
+tags: ["recoining", "terms", "thoughts"]
+---
+{% include JB/setup %}
+
 Writing about the moral distress of non-profit against for-profit companies, I realised another topic the TED talk touched and that I didn't quite realise until writing that post: the terminology. In the talk XXXXXX talks about the history of non-profit and show what it came from. Which also explains this rather weird term and its definition: wealthy business people were also running philanthropic endeavors to make their churches happy and feel morally okay doing big business. Unlike their actual business those rather small side-thingies were not for profit - hence the term. 
 
 Totally understandable term, but what we mean by that changed since then. We fund companies and projects on the ground to never yield any profit now, we have plenty of organisations without any link to profit oriented business what so ever, either being paid through government, foundations or donations from the public. This is why this term always struck me as odd but I never questioned it. But now I do and I think it is time, we stop using it. And replace it with the terminology "for-good" entirely -- or at least for many cases. And this is why:
@@ -19,12 +27,12 @@ As mentioned before, there are more than the binary black and white. This is why
 
 ## Never use negative terms
 
-The way our brain works doesn't allow us to think about negative things. You can't ["not think of a polar bear"] -- try it. If we hear non-X, the first thing we think of is the X, then we try to imagine the none, which we fail at terribly. This is why we one should always use positive language, it is a common communication tool to make clear language and is easier to understand. For the same reason it is much easier to understand what something is than what something is not, it makes it also much easier to image where things are going. For that simple reason you should always be "for" something rather than "against" something else.*
+The way our brain works doesn't allow us to think about negative things. You can't ["not think of a polar bear"] -- try it. If we hear non-X, the first thing we think of is the X, then we try to imagine the none, which we fail at terribly. This is why we one should always use positive language, it is a common communication tool to make clear language and is easier to understand. For the same reason it is much easier to understand what something is than what something is not, it makes it also much easier to image where things are going. For that simple reason you should always be "for" something rather than "against" something else.
 
 That's why I'm proposing the use of for-good, when appropriate and discard the usage of the term non-profit unless used to describe the legal company structure.
 
 
-* A great example of this is actually Attac: the Anti-Globalisation movement was against international capitalism from its founding but when it failed human kind terribly in 2008/2009 and everyone turned to them to think about what to do instead, they didn't have any proposal and lost all its credibility. Their number one chance to take down the negative effects of globalisation and they blew it because by being so against it, they weren't _for_ anything. 
+A great example of this is actually Attac: the Anti-Globalisation movement was against international capitalism from its founding but when it failed human kind terribly in 2008/2009 and everyone turned to them to think about what to do instead, they didn't have any proposal and lost all its credibility. Their number one chance to take down the negative effects of globalisation and they blew it because by being so against it, they weren't _for_ anything. 
 
 
 

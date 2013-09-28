@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Production is Research"
+description: ""
+tags: ["production", "thoughts", "lean"]
+---
+{% include JB/setup %}
 privacy vs. big-data
 
 - on one side highly fascinated by the big-data we can collect and what we can read out of it

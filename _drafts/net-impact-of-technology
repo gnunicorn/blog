@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "Production is Research"
+description: ""
+tags: ["production", "thoughts", "lean"]
+---
+{% include JB/setup %}
 A hundred years ago, the changes in technology for cars where by magnitude per decade. The doubled speed and power, reach and effortibility. For the frist fourty or so years this, it is amazing how this technology developed. But also the impact these developments had on their environment: double the speed meant crossing the country in days instead of weeks, suddenly you could supply the other part of the country with fresh products, which would get bad on long journeys. But if you think back the last, say three decades, what really has changed in automobile technology? Well, actually, a lot: cars got more efficient, a car from 1980 wouldn't stand a chance compared to a car from today. But how much impact did this technology have? Well, almost none.
 
 Just think about it. The entry level car still requires roughly the same amount of money from the person it did thirty years ago, the levels of cars are tied to their customer base and the efficiency mostly went into making it more comfy. Still my parents were able to travel accross europe with their car back than as I am now. And the time it took them maybe differs by percent but most definetily not by magnitude compared to today. Though engines got at least twice as efficient and routes lasting at least four times what they did back then.
