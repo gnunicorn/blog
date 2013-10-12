@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Breaking Bad's Walter White really an aspiring entrepreneur?"
+title: "Is Breaking Bad's Walter White really an entrepreneur to aspire for?"
 description: "As a series junkie I am of course a big fan of [Breaking Bad](http://en.wikipedia.org/wiki/Breaking_Bad), the characters, the story telling, just brilliant. But even more interesting than the series itself is what is currently going on in its after math in popular and business media. Revealing the real art piece and criticism on the zeitgeist the character Walter White truly resembles.
 "
 tags: ["entrepreneur", "thoughts", "idols"]
