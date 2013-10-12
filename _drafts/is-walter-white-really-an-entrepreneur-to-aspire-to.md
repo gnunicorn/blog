@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Is Breaking Bad's Walter White really an aspiring entrepreneur?"
+description: ""
+tags: ["entrepreneur", "thoughts", "idols"]
+---
+{% include JB/setup %}
+
+_(Attention: contains spoilers. Don't read if you want to enjoy this series.)_
+As a series junky I am of course a big fan of Breaking Bad, the characters, the story telling, just brillant. But even more interesting than the series itself is what is currently going on in its after math in popular media. Unrevealing the true art piece and critism on the zeitgeist Walter White really is.
+
+It struck me the first time as slightly odd, when [The Economist ran a piece on the school of "Breaking Bad"](http://www.economist.com/news/business/21586801-best-show-television-also-first-rate-primer-business-breaking-bad-school) proclaiming the drug lord Walter White being a great case study of modern business entrepreneurship. Which I found very funny, at this time: they were disecting and analysing a completly fictional business. With the arguable question whether the usual buyer of Meth would actually be willing and able pay for a higher quality product being just the tip of the ice berg. But with analysing finctional business having become main stream in this field – how often did magazines talk about the latest strategies companies are going now ? – I didn't put much thought into it.
+
+It wasn't until after I read another piece about [Walter White on pando daily](http://pandodaily.com/2013/10/02/walter-white-founder-and-ceo/), [the numbers of his business published by CNN Money](http://money.cnn.com/2013/09/27/news/economy/breaking-bad-profit/index.html) before I went "wait a second". We aren't only acting as if that character has been real, we are also acting as if he hadn't done, what he did. [The obitury posted in the Albuquerque Journal](http://dailycaller.com/2013/10/04/rip-walter-white-heisenberg-obit-printed-in-albuquerque-journal/) is probably the most revealing case of this, as it totally leaves out that the whole city in the end knows him as the drug loard. If they'd posted this piece in a real case, this news paper would have to shut down because of public pressure. But it goes beyond that. By praising him as a great business man and entrepreneur The Economist and Pando Daily are doing the same but less obvious.
+
+Because this isn't the story about a  great entrepreneur, it is a about a man, who out of circumstances goes off the honest path and into a shady and disastrous business. And the way that character justifies this is with the shady, overly common,  american argument that it was all just "for the family". The very family he looses three times in that period, only gets back through threats and it takes him up to the very last episode to eventually admit that he just did it for himself. The story of Walter White is a story of a power-hungry man, who can't get enough and goes over bodies to get there. And not only a few times were these deaths easy to prevent. Like when we watched the girlfriend of his partner die in front of him and did nothing. No, this guy went over bodies for business, screwed people over, works by threatening and killing. But the economist and other entrepreneurial papers completely ignore this when praising him.
+
+And this makes them part of this great art piece. Walter White indeed is a result of our time: not only the initally circumstances but also the way he is doing business and it is preceived and justified by him. He always has good reason for every threat, attack and death and can always go to sleep at night. But the piece wouldn't be complete if it was only him having this distored way of seeing the world. No, by praising Walter White the very same way these papers talk about any busines, they reveal the fundamental way they are working: Just praising, in total ignorance of a companies bad impact, willingness blindness in the light of the entrepreneur.
+
+Uncovering this in such a brilliant way is what makes this character the greatest critism on our zeitgeist, the way we do business and we think about business in our time. 
