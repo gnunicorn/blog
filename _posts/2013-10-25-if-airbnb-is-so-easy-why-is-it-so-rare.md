@@ -22,4 +22,5 @@ This particular market has a few key characteristics, which make this business m
 Those factors are key to the success of the AirBnB model. And though the AirBnB model sounds easy to execute, it gets much harder for any of those characteristics missing in your target market. If you need to invent the market or explain your business model first, if the supply or demand vanishes very quickly, if the goods or services are very local, all these factors make it much harder to scale it to this extend.
 
 
+Thanks to my good friend [Alex Scholz](http://de.linkedin.com/pub/alexander-scholz/66/b18/8b4), who made this great picture. And while we are on it, thanks for the great trip, too!
 
