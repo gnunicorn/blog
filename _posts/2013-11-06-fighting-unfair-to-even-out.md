@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Production is Research"
+title: "Fighting unfair to even out"
 description: ""
 tags: ["production", "thoughts", "lean"]
 ---
