@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Production is Research"
-description: ""
+description: "In the classic style of companies, you had one department doing research, one department doing development, one doing marketing and another selling your product. A way of separating entities which failed for software development and conceptually was broken with the introduction of agile software development cycles and now spreads through agile management and development techniques to all areas. Which raises the question: can agile be a more interesting alternative to the given research model? And if so, is our society equipped for this?"
 tags: ["production", "thoughts", "lean"]
 ---
 {% include JB/setup %}
