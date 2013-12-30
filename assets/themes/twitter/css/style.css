@@ -94,6 +94,11 @@ footer .imprint {
 .post .date {
 	margin-bottom: -5px;
 }
+.reading-time {
+	float: right;
+	margin: 0;
+	padding-right: 15px;
+}
 
 .post .post-content {
 	margin-top: 25px;
