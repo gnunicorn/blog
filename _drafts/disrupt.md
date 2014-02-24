@@ -1,0 +1,1 @@
+data ain't a startup idea: if you build your startup product because the numbers suggest you should, I am telling you, the startup will be boring and it won't disrupt.
