@@ -17,3 +17,4 @@ Ladies and Gentlemen, on actual tech-matters, we shouldn't expect to much from t
 
 If you don't have good numbers (yet), start raising even earlier than you did before. **It's gonna be a tough year**.
 
+Thanks to [Roger Wollstadt for publishing this great photo under Creative Commons 2.0 on Flickr](http://www.flickr.com/photos/24736216@N07/3337738283/).
