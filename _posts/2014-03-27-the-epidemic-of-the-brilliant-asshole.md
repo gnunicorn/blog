@@ -2,7 +2,7 @@
 layout: post
 title: "The epidemic of the brilliant asshole"
 tagline: "We are glorifying the wrong heros for the future that is to come"
-description: ""
+description: "As any other techie, I was highly excited when supposedly geeky and nerdy characters became popular hero figures in TV series and movies. Until then the predominantly image was of the [Steve-Urkel](https://en.wikipedia.org/wiki/Steve_Urkel)-kind: smart but clumsy, a little helpless in social situations – something to laugh about. With new series like [The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory), [Sherlock](https://en.wikipedia.org/wiki/Sherlock_%28TV_series%29) and the American pendant [Elementary](https://en.wikipedia.org/wiki/Elementary_%28TV_series%29) but also, to some degree, [House M.D.](https://en.wikipedia.org/wiki/House_%28TV_series%29) featuring brilliant (almost always male) main characters this has changed. I always felt a certain discomfort with them, though, I just couldn't really put my finger on it until a conversation about workplace communication I had with a friend recently."
 tags: ["technology", "nerds", "no-asshole"]
 image: /assets/content/posts/2014-03-27-house.jpg
 ---
