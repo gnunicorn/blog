@@ -13,3 +13,6 @@ Which is exactly what will keep the hype alive. Hypes die because another hype t
 
 The question is just, what hype will it be? The numbers suggest, it will become highly attractive for MBA, Marketing and Sales people in the foreseeable future. But if Berlin itself continues its growth in the tech and software developers sector, this MBA-Trend might just be a short-time hickup.
 
+---
+For the picture, the thanks goes to [Beyond Neon](https://www.flickr.com/photos/kungfuji/230461728) for publishing it under CC-SA.
+
