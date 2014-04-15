@@ -8,6 +8,9 @@ safe: true
 lsi: false
 pygments: true
 
+markdown: kramdown
+
+
 # the number of post per page
 paginate: 8 
 
