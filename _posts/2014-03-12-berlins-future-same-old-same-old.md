@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Berlins future? Same old same old."
-description: "Looking back over the last two years of Berlins finest startups, leaves you wonder, what the years 2014 and 2015 will hold for the scene. The last two years have not been good. Though a few events shared more light from Europe and all over the World to the city with the hype of  Berlin being the next Silicon Valley still going strong, but the reality looks very different. Reality suggests that there will be more companies doing more boring things instead of honest technology driven entrepreneurship. And no end in sight."
+title: "Berlin's future? Same old same old."
+description: "Looking back over the last two years of Berlin's finest startups, leaves you wonder, what the years 2014 and 2015 will hold for the scene. The last two years have not been good. Though a few events shared more light from Europe and all over the World to the city with the hype of  Berlin being the next Silicon Valley still going strong, but the reality looks very different. Reality suggests that there will be more companies doing more boring things instead of honest technology driven entrepreneurship. And no end in sight."
 tags: ["berlin", "entrepreneurship", "investments"]
 image: /assets/content/posts/2014-03-12-kadewe.jpg
 ---
 {% include JB/setup %}
 
-Looking back over the last two years of Berlins finest startups, leaves you wonder, what the years 2014 and 2015 will hold for the scene. The last two years have not been good. Though a few events shared more light from Europe and all over the World to the city with the hype of  Berlin being the next Silicon Valley still going strong, but the reality looks very different. **Reality suggests that there will be more companies doing more boring things instead of honest technology driven entrepreneurship**. And no end in sight.
+Looking back over the last two years of Berlin's finest startups, leaves you wonder, what the years 2014 and 2015 will hold for the scene. The last two years have not been good. Though a few events shared more light from Europe and all over the World to the city with the hype of  Berlin being the next Silicon Valley still going strong, but the reality looks very different. **Reality suggests that there will be more companies doing more boring things instead of honest technology driven entrepreneurship**. And no end in sight.
 
 When looking at 2012 in the beginning of last year, it was revealed that it has been the lowest in investments for Berlin since 2006. Latest numbers suggest, 2013 went even lower. And while some have cashed out nicely, that was mainly in the areas of follow-up financing in Series-B or later. Series-A – the first after the initial early stage fund, usually in the lower millions – especially around those startups, which lead us believe in a creative Berlin, were nowhere to find. Leading to only one possible outcome: closing them.
 

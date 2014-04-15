@@ -26,6 +26,6 @@ And such a path is usually full of uncertainties and short cuts you might have t
 
 ### For hire
 
-<h4 class="text-error">If you need my help or support on your product, company or startup, just <a href="mailto: me at create-buid-execute dot com">email me</a> and we sit down and talk: the first round of feedback off the top of my head is free - as long as you pay for lunch or dinner.</h4>
+<h4 class="text-error">If you need my help or support on your product, company or startup, just <a href="mailto: me at create-build-execute dot com">email me</a> and we sit down and talk: the first round of feedback off the top of my head is free - as long as you pay for lunch or dinner.</h4>
 
 For anything beyond that I am available for all kinds of arrangements: depending on whether you need a profound and in-depth market and product analysis as a one time consultancy contract, a product development workshop for your team or want me consult, advice or mentor you, your company or anyone within ongoing or regularly, I can think of different kinds of compensation and not all of them involve money. Just be creative. That is what entrepreneurs do after all: they solve problems in a creative way.
