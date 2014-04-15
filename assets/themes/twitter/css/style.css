@@ -31,15 +31,15 @@ footer {
 	background: #777;
 	color: #eee;
 	margin-top: 50px;
-	padding-top: 50px;
-	padding-bottom: 20px;
-	min-height: 100px;
+	padding: 10px 0;
+	line-height: 35px;
 	font-size: 0.8em;
 	text-shadow: #111 0 0 5px;
 }
 
-footer #latest-tweet .text {
-	font-size: 1.2em;
+footer address {
+	line-height: 35px;
+	margin-bottom: 0;
 }
 
 footer h1,
