@@ -3,8 +3,8 @@ layout: post
 title: "Who's afraid of Social Media?"
 description: "
 Recently we gave a presentation discussing the potential marketing of an upcoming product. Alex and me suggested using Social Media to make the step from the phase of early adopters to the mass market. Thought the listeners were quite young people and were aware of social media and its&nbsp;immense&nbsp;power they were quite sceptical, to not say scared. That got me thinking: **are people scared of Social Media?** And if so: Why? How can we prevent that? What can and should we do about it?"
-category: 
-tags: []
+category:
+tags:
 ---
 {% include JB/setup %}
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Back to blog"
 description: "For a while I wanted to get back on the horse of blogging. Encouraged by some friends I eventually took the time to collect all those ideas and thoughts I wrote down about Tech Products, Entrepreneurship and its scene - many of them unpublished until now. That gave me the inspiration to also wrote down a bunch of other thoughts I have talked but not yet written about and publish all of that here under a new Brand with clearer focus and concept. Accompanied by the new layout run on a new technology ([static HTML](/2012/05/13/fully-flexible-highly-extendable-cms-with-i18n-support---introducing-html5-static-pages) on [GH-Pages](http://pages.github.com)), this has everything a real relaunch needs."
-category: 
-tags: []
+category:
+tags:
 ---
 {% include JB/setup %}
 

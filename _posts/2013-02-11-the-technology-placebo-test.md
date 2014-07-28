@@ -3,8 +3,8 @@ layout: post
 title: "The Technology Placebo Test"
 tagline: "There should be a mandatory placebo test for each new technology"
 description: "When I was rethinking the other day about how much more I've been using static HTML instead of big-blown-up projects lately, it dawned on me that a lot of what we do in our daily life, the projects and things we work on barely have an impact on people nor make their lifes easier.  Of course projects like the [lean business canvas](http://leancanvas.com/) already try to cover all aspects to figure out, whether your project is worth the time you'd be spending on it. But especially for technology their canvas is only partly suited to figure this out. So I'd like to propose to do mind experiment before you start to develop your technology, I call it the \"technology placebo test\"."
-category: 
-tags: []
+category:
+tags:
 ---
 {% include JB/setup %}
 

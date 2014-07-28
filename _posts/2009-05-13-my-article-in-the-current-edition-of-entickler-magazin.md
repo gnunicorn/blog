@@ -2,8 +2,8 @@
 layout: post
 title: "My article in the current edition of Entickler Magazin"
 description: ""
-category: 
-tags: []
+category:
+tags:
 ---
 {% include JB/setup %}
 

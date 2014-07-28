@@ -5,7 +5,7 @@ description: "Even before the <a href='http://mashable.com/2010/09/09/scvngr-app
 
 
 [Location-based services](http://en.wikipedia.org/wiki/Location-based_service) promise to 'socially engage' users for your local business like cafés, bars, museums and similar public places. But how do these systems work? Why is there a hype about them? How do they try to keep this promise and what would I - as a business owner - have to do to participate? All boiling down to one major question: **Should I care about Location-based Services**?"
-tags: []
+tags:
 ---
 {% include JB/setup %}
 

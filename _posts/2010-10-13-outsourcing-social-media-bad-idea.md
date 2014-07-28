@@ -3,7 +3,7 @@ layout: post
 title: "Outsourcing Social Media? Bad idea!"
 description: "
 With all buzz around Social Media you've properly discussed it in your company or with your media agency now or then. And they offered you to create a Social Media strategy and&nbsp;execute it for you. While it is a great idea to let them develop a plan for you - as you have bigger problems to worry about - you should not let them execute it for you: **&nbsp;it won't work**! No matter what you agency is promising you, it won't work. They can support you, come up with ideas and train your writing skill and how to behave in certain areas of Social Media, but they should never be in charge of execution."
-tags: []
+tags:
 ---
 {% include JB/setup %}
 
