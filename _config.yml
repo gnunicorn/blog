@@ -24,13 +24,13 @@ description: A blog with insights on Tech Product Creation and Entrepreneurship
 author :
   name : Benjamin Kampmann
   email : ben.kampmann@gmail.com
-  gplus: 104898591568170720911
+  gplus: "104898591568170720911"
   github : ligthyear
   twitter : techCreationist
   feedburner : feedname
 
 publisher:
-  gplus: 104898591568170720911
+  gplus: "104898591568170720911"
 
 fb_admins: '1443070876'   # list of things separated by comma
 # The production_url is only used when full-domain names are needed
