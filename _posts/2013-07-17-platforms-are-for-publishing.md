@@ -8,7 +8,7 @@ item: item1
 title: Platforms are for publishing
 description: "Writing [last weeks post about content creation](/2013/07/11/content-creation-isnt-about-the-tool), I found myself pondering about soundcloud, youtube, github and all the other content platforms, so many startups refer to when they talk about their publishing tool. The _youtube for X_ or _github for Y_ they say when pitching their idea. And while it is true that youtube is very important for content publishing today, it has very little relevance to the content created and published there and for sure is not the reason why we have so much content today.not the reason why we have so much content today."
 category: null
-tags: 
+tags:
   - insights
   - thoughts
   - youtube

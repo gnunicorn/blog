@@ -9,7 +9,7 @@ title: Time to give music visualisation a meaning
 tagline: nowadays audio visualisations are boring and soulless
 description: "Back in the late 1990th and the early 2000th there was an artistic movement going on named VJs, who were basically the visual complement to what a DJ is doing with music. Similar to DJs, VJs were reusing existing bits and pieces and often played their videos alongside a DJ. Though computers weren't as powerful back in the day there were some pretty amazing visualisations done. And as a DJ is changing the set and songs depending on the audience so did the visual artist, making every performance an unique experience. This required a pretty intense collaboration and interaction between both Jays and plenty of bootleg work before hand. Naturally there were only very little artists available and capable of doing that and more and more live-audio-visualisations tools were used."
 category: null
-tags: 
+tags:
   - thoughts
   - music
 ---

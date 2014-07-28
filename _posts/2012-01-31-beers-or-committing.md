@@ -3,7 +3,10 @@ layout: post
 title: "Beers or committing"
 description: "Back in Barcelona we were a small team of techies and developers working on our small startup which was actually part of a much bigger network of companies with multiple hundred employees at that facility only. But as the companies were still around from the first tech-bubble only the smaller part of them were techies. The bigger part was media, sales and marketing people doing the classic nine-to-five thing. Naturally we didn't talk to each other much."
 category: 
-tags: ["barcelona", "thoughts", "programming"]
+tags: 
+  - "barcelona"
+  - "thoughts"
+  - "programming"
 ---
 {% include JB/setup %}
 Back in Barcelona we were a small team of techies and developers working on our small startup which was actually part of a much bigger network of companies with multiple hundred employees at that facility only. But as the companies were still around from the first tech-bubble only the smaller part of them were techies. The bigger part was media, sales and marketing people doing the classic nine-to-five thing. Naturally we didn't talk to each other much.

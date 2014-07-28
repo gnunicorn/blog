@@ -5,7 +5,10 @@ tagline: "The systematical Problem with the new"
 description: "
 New is always better. Because New widens our view. It opens a range of new possibilities. New allows us to do things we didn't even dream of before. Or make them at least accessible by making it easier for us to do them. Therefore every new technology is better by definition. Or is it?"
 category: 
-tags: ["thoughts", "programming", "frameworks"]
+tags: 
+  - "thoughts"
+  - "programming"
+  - "frameworks"
 ---
 {% include JB/setup %}
 

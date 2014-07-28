@@ -4,7 +4,10 @@ title: "Starting in the north"
 tagline: "A view on the Startup Scene in Stockholm"
 description: "With the [OpenTechSchool](http://www.opentechschool.org) I recently spend ten days in Stockholm. As we are about building local tech initiatives me and [Bea](http://beatricemartini.it) made sure we are super embedded in the local startup scene. We even had the chance to stay at the famous [Hus24](http://hus24.org/) - the co-working-co-housing-space for startup people coming to the city. Which gave me early on the opportunity to talk to many startup people, and I gotta say, I am impressed."
 category: 
-tags: ["thoughts", "startup scene", "stockholm"]
+tags: 
+  - "thoughts"
+  - "startup scene"
+  - "stockholm"
 ---
 {% include JB/setup %}
 

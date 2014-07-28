@@ -2,8 +2,11 @@
 layout: post
 title: "This ain't California"
 description: "One of the reasons I am writing this blog in English is because of the audience I want to reach. Yes, I also do it because I find it much easier but more importantly I want to reach those, who are reading all those blogs from the silicon valley, from the incubators, the failures and winners and the investors from the valley. And I want to reach those readers because, what they have been told, so many advices, which haven been and are still given, simply don't work here. But every now and then I meet someone, who almost blindly follows the advice and I just want to tell them: look, that sounds great and might worked there but **this ain't California**."
-category: 
-tags: ["comparision", "markets", "california"]
+category:
+tags:
+  - "comparision"
+  - "markets"
+  - "california"
 image: /assets/content/posts/california.jpg
 ---
 {% include JB/setup %}

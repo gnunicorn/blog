@@ -7,7 +7,12 @@ description: "Dear OpenSource,
 we have to talk. We have to talk about your relationship with Google. Google screws you over and over, still you keep coming back to it. Don't you understand Google only wants you for your developers, market share and code? Google really doesn't care about you. It couldn't care less. It just takes and takes and then, whenever it reaches enough power, it drops you like a hot potato. Every. Time. It does that. But just one \"Summer of code\" and you are back in bed with it. And continue to believe that it cares about it. But it doesn't. It really doesn't.
 \n\n
 When and how, you ask? Fair enough. Let's take a look about the most recent ways G decided to screw you over."
-tags: ["google", "tech infrastructure", "technology", "open source", "android"]
+tags:
+  - "google"
+  - "tech infrastructure"
+  - "technology"
+  - "open source"
+  - "android"
 image: /assets/content/posts/2014-04-opensource.jpg
 ---
 

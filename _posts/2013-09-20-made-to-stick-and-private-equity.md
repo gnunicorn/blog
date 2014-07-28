@@ -3,7 +3,6 @@ layout: post
 title: Made to Stick and Private Equity
 description: " After having [written about books for building businesses]((/2013/09/04/rework-and-delivering-happiness) and [how to manage people internally and externally](/2013/09/12/the-art-of-war-and-how-to-win-friends-and-influence-people) today I want to focus on two other books that should not be missing from a founders library. And although they appear as different as two books can be, they have one important thing in common: when you read them the first time, you'll constantly be asking yourself, when you'll ever need that. But then, years later – and I promise you the day will come – you'll be super glad for having read them before and being able to apply them or at least do that after quickly looking stuff up in there. **I am talking about Made to Stick and Private Equity**."
 category: null
-tags: []
 published: true
 ---
 

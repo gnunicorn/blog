@@ -3,7 +3,10 @@ layout: post
 title: "Arts are the root of Entrepreneurship"
 description: "Just the other day I was walking to my to work and I saw this grafiti. It was about how systems though seemingly make things easier surround us as some form of cage at the same time. It was brilliant and smart, going to core of the (very systemitical driven) German Society. It takes quite a mind und clever usage of it to even see this problem. And reading that was really inspiring, it opened my mind and got me thinking."
 category: 
-tags: ["thoughts", "entrepreneurship", "art"]
+tags: 
+  - "thoughts"
+  - "entrepreneurship"
+  - "art"
 ---
 {% include JB/setup %}
 

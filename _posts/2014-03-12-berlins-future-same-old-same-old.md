@@ -2,7 +2,10 @@
 layout: post
 title: "Berlin's future? Same old same old."
 description: "Looking back over the last two years of Berlin's finest startups, leaves you wonder, what the years 2014 and 2015 will hold for the scene. The last two years have not been good. Though a few events shared more light from Europe and all over the World to the city with the hype of  Berlin being the next Silicon Valley still going strong, but the reality looks very different. Reality suggests that there will be more companies doing more boring things instead of honest technology driven entrepreneurship. And no end in sight."
-tags: ["berlin", "entrepreneurship", "investments"]
+tags:
+  - "berlin"
+  - "entrepreneurship"
+  - "investments"
 image: /assets/content/posts/2014-03-12-kadewe.jpg
 ---
 {% include JB/setup %}

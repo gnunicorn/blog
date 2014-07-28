@@ -3,7 +3,11 @@ layout: post
 title: "Tech Entrepreneur? Without coding skills? Shut up."
 description: "Entrepreneurship is the craft of **getting things done, no matter what**. Because you want to scratch an itch, make a dent in the universe or are a perfectionist and can stand this thing being so broken, you want to make it happen. There is an internal drive that with every day without progress drives you mad until you get sick to your stomach. So when those wannabe entrepreneurs approach me, saying \"I'm a tech entrepreneur, I have this great idea and am looking for the last couple of month for someone, who codes it for me\" (as a CTO for free), I want to start crying. If you are fine looking for someone to do stuff for you, without making any actual progress, you are not an Entrepreneur. Done."
 category: 
-tags: ["startup scene", "entrepreneurship", "jobs", "startups"]
+tags: 
+  - "startup scene"
+  - "entrepreneurship"
+  - "jobs"
+  - "startups"
 ---
 {% include JB/setup %}
 

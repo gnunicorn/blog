@@ -4,7 +4,10 @@ title: "Is business against open?"
 tagline: "Is businesses generally set up against an open culture?"
 description: "A few weeks ago I wrote about [the many ways Google is screwing the open (source) community](/2014/04/22/stop-it-open-source-google-aint-gonna-care-about-you-ever) all the time and it left me pondering. I've talked a lot about business models, the startup scene and the technology-driven disruptive ecosystem in this blog over the past years. I always liked the entrepreneurial attitude of getting things done instead of accepting the status quo. But I came to realise that especially **if they are backed with investors money, also great startups turn into profit oriented corporations** – exactly what they fought against in their early days. Not only in a few cases they also **turn against the open culture they originated from**. Leaving me with the question: is business – in general – against open?"
 category:
-tags: ["opensource", "business", "startup"]
+tags:
+  - "opensource"
+  - "business"
+  - "startup"
 image: /assets/content/posts/2014-05-27-open-the-wrong-side-around.jpg
 ---
 {% include JB/setup %}

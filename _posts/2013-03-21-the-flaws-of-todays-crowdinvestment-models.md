@@ -3,7 +3,10 @@ layout: post
 title: "The flaws of todays crowdinvestment models"
 description: "After [introducting the different ways of crowdfunding](/2013/03/13/crowdfunding-unequals-crowdfunding) existing nowadays in Germany last week, today I'd like to discuss the only investment-model in there a bit further: crowdinvestments are when a very large group in a high quantity but low individual volume invests in an upcoming company to finance its development and growth through a more or less public auction. Or so it should be; While because of the legal structure in Germany and the high complications (and costs) of changes in shareholders of a GmbH (and UG), the crowd isn't holding actual shares but a complicated system with shadow-shares and debt-contracts to make that system appear to work. All of that coming with its own set of benefits and problems, most people are unaware of. But boy you should be."
 category: 
-tags: ["investment", "insights", "startup"]
+tags: 
+  - "investment"
+  - "insights"
+  - "startup"
 ---
 {% include JB/setup %}
 

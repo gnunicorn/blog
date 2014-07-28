@@ -7,7 +7,7 @@ item: item1
 title: Limited by the giant we stand on
 description: "When we talk about our great innovations and things we've reached, we shamelessly admit that we were only able to get there because of the heritage and everything that was created before us to be able to build upon. We refer to this by standing on the shoulders of giants. But what if we are so high up on our giant that we are actually unable to see the ground. And that way limit ourself - even in this entrepreneurship-bubble we are in - to only solve rather small problems, which only appear big in _our_ world."
 category: null
-tags: 
+tags:
   - insights
   - entrepreneurship
   - giants

@@ -2,8 +2,11 @@
 layout: post
 title: "In doubt: access granted"
 description: "When doing Dev Ops or system administration there is an important default rule for keeping your system secured: forbidden unless explicitly allowed. Most firewalls work that way: no port is open for connection unless administrator explicit opened it. The reason for that being that you can't trust the source, you have to assume it someone that wants harm. In computer security the rule is \"guilty until proven innocent\". But that shouldn't bubble up to become part of your customer communication. Because having to ask for access for every little thing gets really annoying and destroys the user experience."
-category: 
-tags: ["product design", "insights", "thoughts"]
+category:
+tags:
+  - "product design"
+  - "insights"
+  - "thoughts"
 ---
 {% include JB/setup %}
 

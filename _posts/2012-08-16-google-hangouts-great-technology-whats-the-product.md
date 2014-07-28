@@ -3,7 +3,11 @@ layout: post
 title: "Google+ Hangouts: great technology - what's the product?"
 description: "[Yesterday Google launched their Google+ Hangouts on Air feature in Germany](http://stadt-bremerhaven.de/google-startet-hangouts-on-air-in-deutschland/). That news made me take a look into Hangouts again after a while and very shortly in, I realised this is a great example of what I was talking about when I was talking about [technology vs. products](/2012/04/26/technology-unquals-product) earlier this year: Again Google built an amazing technology, one that only very few would be capable of building not even talking about running, but fails miserably to communicate its use and make it into a real product. Caused by generalisation the normal end-user can't really answer the question: why should I use it again?"
 category: 
-tags: ["technology", "product", "hangouts", "thoughts"]
+tags: 
+  - "technology"
+  - "product"
+  - "hangouts"
+  - "thoughts"
 ---
 {% include JB/setup %}
 

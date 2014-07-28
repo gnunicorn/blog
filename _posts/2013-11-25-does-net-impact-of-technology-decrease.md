@@ -3,7 +3,12 @@ layout: post
 title: "Does the real world Impact of Technology decrease over time?"
 description: "A hundred years ago, the changes in technology for cars where by magnitude per decade. The doubled speed and power, reach and affordability. For the first forty or so years this is, it is amazing how this technology developed. But also the impact these developments had on their environment: double the speed meant crossing the country in days instead of weeks, suddenly you could supply the other part of the country with fresh products, which would get bad on long journeys. But if you think back the last, say three decades, what really has changed in automobile technology? Well, actually, a lot: cars got more efficient, a car from 1980 wouldn't stand a chance compared to a car from today. But how much impact did this development have? Almost none actually.
 "
-tags: ["impact", "net impact", "thoughts", "innovation", "curve"]
+tags:
+  - "impact"
+  - "net impact"
+  - "thoughts"
+  - "innovation"
+  - "curve"
 image: /assets/content/posts/2013-11-25-tesla.jpg
 ---
 {% include JB/setup %}

@@ -2,8 +2,12 @@
 layout: post
 title: "Make unsustainable Systems "
 description: "Last week I was writing about how it should be [every companies goal to eventually become obsolete](/2013/05/15/cease-to-exist/) as fundamental parts of their DNA in order to make sure they are working on something with high social impact - instead of just financial gain. The ignorant person I am, I totally turned a blind eye on the survivability-feature every system must have; if they don't they eat themselves up over time. Which is especially true for companies."
-category: 
-tags: ["insights", "thoughts", "legal", "companies"]
+category:
+tags:
+  - "insights"
+  - "thoughts"
+  - "legal"
+  - "companies"
 ---
 {% include JB/setup %}
 

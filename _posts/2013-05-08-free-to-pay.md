@@ -3,8 +3,11 @@ layout: post
 title: "Free to pay"
 tagline: "a new revenue model on the rise?"
 description: "If you charge for your app, service or content before the customer has received it, you have fewer customers as each one of them is harder to acquire. That's why many services offer to use them for free to a certain extent and only pay if you continue using them, which in reality usually requires limiting the free usage. The other big business model is the free-as-in-advertising model big companies like Google and Facebook are running on, it is free for you but your private data will be used and sold to others to advertise towards you. And especially for running network-structure businesses, where limiting the users always means limiting yourself, this sounds like the only do-able solution. **But a new payment model is on the rise promising fix this mistake: the free to pay business model**."
-category: 
-tags: ["insights", "business model", "payment"]
+category:
+tags:
+  - "insights"
+  - "business model"
+  - "payment"
 ---
 {% include JB/setup %}
 

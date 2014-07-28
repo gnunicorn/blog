@@ -3,7 +3,10 @@ layout: post
 title: "Passwords are so 2007"
 description: "The other day I was looking into how first start processes of nowadays Mobile-Apps look and could be optimized for a side-project I am supervising. And though there has been plenty talking about \"first time experience optimisation\" and such over the last couples of years, many still seem to be stuck in the year 2007 - the time before the iPhone/Smartphones. In the sense of that they still do not harvest the possibilities those bring but stick with old and obsolete principles. Passwords for example."
 category: 
-tags: ["insights", "mobile", "concepts"]
+tags: 
+  - "insights"
+  - "mobile"
+  - "concepts"
 ---
 {% include JB/setup %}
 

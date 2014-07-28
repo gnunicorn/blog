@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "Lean Startup Canvas: the wrong tool."
-description: "I already <span class=\"strikethrough\">ranted</span>wrote about the [Lean Startup Canvas last week](/2014/07/21/warning-lean-startup-canvas-may-derail-your-tech-venture). After giving it some more thought, I now realize that the problems with the canvas extend beyond its focus on profit as the main purpose for any venture. In fact, I argue that the canvas fails to capture the nature of many tech-driven ventures and the motivation of their founders. Let me explain."
-tags: ["lean canvas", "thoughts", "lean", "broken"]
+description: "I already <span class='strikethrough'>ranted</span>wrote about the [Lean Startup Canvas last week](/2014/07/21/warning-lean-startup-canvas-may-derail-your-tech-venture). After giving it some more thought, I now realize that the problems with the canvas extend beyond its focus on profit as the main purpose for any venture. In fact, I argue that the canvas fails to capture the nature of many tech-driven ventures and the motivation of their founders. Let me explain."
+tags:
+ - "lean canvas"
+ - "thoughts"
+ - "lean"
+ - "broken"
 image: /assets/content/posts/2014-07-28-hammer-the-screw.jpg
 ---
 {% include JB/setup %}

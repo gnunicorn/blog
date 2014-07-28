@@ -2,7 +2,10 @@
 layout: post
 title: "Warning: Lean Startup Canvas may derail your tech venture"
 description: "One of the first things I do when thinking about new projects, or even existing business models, is mapping it out on the [lean startup canvas](http://practicetrumpstheory.com/2012/02/why-lean-canvas/). I am a big sucker for the lean canvas, it captures more on one page than most business plans in over thirty pages. That said, I am getting increasingly frustrated with it. The Lean Canvas, as an evolution of the Business Model Canvas, clearly comes from a business perspective and a certain profit-driven mindset. But, when you talk about **tech startups, community-driven, or inherently open and social ventures, the Lean Canvas** doesn't only fall short in describing it, it **is outright harmful**. Similar to the saying \"bad information is worse than no information at all\", the Lean Canvas could **give you false confidence** by putting you and your idea into a certain structure. Yet this structure is not necessarily suitable for your endeavour and could actually drive you off your path."
-tags: ["lean canvas", "thoughts", "lean"]
+tags:
+  - "lean canvas"
+  - "thoughts"
+  - "lean"
 image: /assets/content/posts/2014-07-19-google-bike-unrailed.jpg
 ---
 {% include JB/setup %}

@@ -2,7 +2,10 @@
 layout: post
 title: "If the AirBnB model is so easy, why is it so rare?"
 description: "Of all the popular new business models no is as much in fashion as the AirBnB-model, marketplaces for all kinds of things — you won't believe what I got approached with. Time over time I repeat myself, explaining that I don't believe that this model is so easily transferable to other markets as is commonly believed. After all, if it was the case, why aren't there successful businesses applying this model to other markets and are able to grow to a similar size as AirBnB is? It's not as if this was a particularly new model. And it's not just because it got executed better, even more important than that was the market the founders picked - whether coincidentally or on purpose."
-tags: ["airbnb", "thoughts", "lean"]
+tags:
+  - "airbnb"
+  - "thoughts"
+  - "lean"
 image: /assets/content/posts/california-no-vacancy.jpg
 ---
 {% include JB/setup %}

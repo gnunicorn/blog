@@ -4,7 +4,9 @@ title: "Blind from what we see"
 tagline: "Does skeuomorphism in UI/UX-Design hinder innovation"
 description: "The first [UpFront](http://up.front.ug/) of 2013 started with a new concept: a panel discussion on skeumorphism vs the flat lands. A very interesting and insightful discussion which got me thinking: Does skeumorphism, the craft of designing user interfaces as they look like in the real world, hinder innovation? Do we blend out the possibilities lying to our feet because of trying to make it look and behave in the real world?"
 category: 
-tags: ["design", "insight"]
+tags: 
+  - "design"
+  - "insight"
 ---
 {% include JB/setup %}
 

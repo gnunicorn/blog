@@ -4,7 +4,11 @@ title: "Here is why I won't bother reading your job posting"
 tagline: "Read this to understand why no one is answering on your tech job posting"
 description: "We Tech-People are rare. And what I mean by Tech-People is obviously people, who sit down and get the stuff done, aka \"coders\". And though I made it part of my personal goals, [to educate people to have more of them](/2012/06/15/the-opentechschool/), there won't ever be enough. And as such we people do pick, where we work, what we work on and who we work with. And the later is the exact point. The other day I was stumbling once more about one of these default job postings with three sections and bullet points like human resource people build them. Not even a sentence in I closed the tab, just to realise they really should know why."
 category: 
-tags: ["infrastructure", "jobs", "passion", "motivation"]
+tags: 
+  - "infrastructure"
+  - "jobs"
+  - "passion"
+  - "motivation"
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,11 @@ layout: post
 title: "Berlin has no infrastructure for startups"
 description: "Berlin might be a great place to bootstrap your startup because you can find highly inspired and motivated people with the right attitude, it is cheap and the environment is there to making starting things easy. But it is in the bigger picture still missing an important part to make it a successful startup city: a working and startup-aware service infrastructure. Too often you have to take care of things that don't matter to the core of your business because usual services are only offered to established companies."
 category: 
-tags: ["berlin", "infrastructure", "entrepreneurship", "thoughts"]
+tags: 
+  - "berlin"
+  - "infrastructure"
+  - "entrepreneurship"
+  - "thoughts"
 ---
 {% include JB/setup %}
 

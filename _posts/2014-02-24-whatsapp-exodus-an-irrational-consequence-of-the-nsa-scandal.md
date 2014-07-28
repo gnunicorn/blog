@@ -2,7 +2,11 @@
 layout: post
 title: "WhatsApp exodus: An irrational consequence of the NSA Scandal"
 description: "With the story breaking that WhatsApp will be bought by Facebook a few days ago, a global search for a secure and trustworthy messaging app begone. We've seen these attempted exodus before from startups, [just think of Instagram](http://tbexcon.com/us/2012/12/19/the-instagram-exodus-photo-sharing-alternatives-and-a-warning/) or [Dropbox ever time they change their terms of service](http://tbexcon.com/us/2012/12/19/the-instagram-exodus-photo-sharing-alternatives-and-a-warning/). And as every time, there is the counter reaction of telling people, that WhatsApp hasn't been secure in the first place. And therefore it was totally irrational to quit it now because Facebook acquired it. It hasn't gotten any more evil than it used to be already. And though people say it is, I suspect it not being the actual reason. But that this is a a long over due (first, big) reaction to the NSA scandals. And we'll see more of those."
-tags: ["whatsapp", "aquisition", "exodus", "nsa-scandal"]
+tags:
+  - "whatsapp"
+  - "aquisition"
+  - "exodus"
+  - "nsa-scandal"
 image: /assets/content/posts/2014-02-24-secretly-texting.jpg
 ---
 {% include JB/setup %}

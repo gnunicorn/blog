@@ -2,7 +2,11 @@
 layout: post
 title: "Two Things About The German Tech Startup (Job) Market"
 description: "Lately I've met quite a few people from silicon valley coming to Berlin to check out the startup scene. Thought the local Startups scene is often compared to the one over the great lake, a few things are very different. Often mentioned are the missing network of founders and investors as well as longer history in tech entrepreneurship. But **today I want to discuss two urgent problems concerning the tech job market in Berlin,** which **not even the local founders understand entirely**, as far as I can see. But we need to understand their roots to be able to tackle them and find solutions."
-tags: ["jobs", "startup scene", "berlin", "germany"]
+tags:
+  - "jobs"
+  - "startup scene"
+  - "berlin"
+  - "germany"
 ---
 {% include JB/setup %}
 

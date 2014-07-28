@@ -3,7 +3,11 @@ layout: post
 title: "The OpenTechSchool"
 description: "Some of you may know, that I am part of the [OpenTechSchool](http://www.opentechschool.org) here in Berlin. It is a community initiative of tech savy people building and providing workshops to women and their friends around coding and tech topics. It started in April after a few participants of the great Rails Girls Weekend approached us and said \"that was a nice weekend but what now? What about other languages?\". So got into talking and pretty soon a concept we call the OpenTechSchool emerged. A blueprint of how to create and organise your own, free tech workshops."
 category: 
-tags: ["opentechschool", "education", "workshops", "jobs"]
+tags: 
+  - "opentechschool"
+  - "education"
+  - "workshops"
+  - "jobs"
 ---
 {% include JB/setup %}
 

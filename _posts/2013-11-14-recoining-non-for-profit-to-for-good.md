@@ -2,7 +2,11 @@
 layout: post
 title: "Recoining terms: use for-good instead non-profit"
 description: "Writing about the [moral distress of non-profit against for-profit companies](/2013/11/06/fighting-unfair-to-even-out), I realized another topic the TED talk touched and that I didn't quite realize until writing that post: **the terminology**. In his talk Dan Pallotta talks about the history of non-profit and shows where it came from. Which also explains this rather weird term and its definition: wealthy business people were running philanthropic endeavors on the side to make their churches happy and feel morally okay earning big money. Unlike their actual business those rather small side-thingies were not for profit - hence the term. "
-tags: ["recoining", "terms", "thoughts", "for-good"]
+tags:
+  - "recoining"
+  - "terms"
+  - "thoughts"
+  - "for-good"
 image: /assets/content/posts/change-socially.jpg
 ---
 {% include JB/setup %}

@@ -3,8 +3,10 @@ layout: post
 title: "Speaking at #son12"
 description: "Just got the notice that my talk was accepted for this years [Summit of New Thinking]() on November 16th, 2012. I'll be talking about how we use Git and [Github](https://github.com) at the [OpenTechSchool](http://www.opentechschool.org) to create, manage and host our learners material. If you happen to be at the conference, I'd happy to see at my speech. And feel free to bug me at any time to talk about this or any other related topic."
 image: /assets/content/posts/son12.jpg
-tags: ["opentechschool", "conference", "speaking"]
-
+tags: 
+  - "opentechschool"
+  - "conference"
+  - "speaking"
 ---
 {% include JB/setup %}
 

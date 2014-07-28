@@ -3,7 +3,7 @@ layout: post
 title: Build teams which are uncomfortable
 description: "I am tech product guy with an [OpenSource-Hacker-background](http://www.catb.org/esr/faqs/hacker-howto.html). I do believe that a business rises and falls with the product and its quality. With this background I am most fond of product teams of engineering people. We speak the same language and get along great. But having gone through a few of those startup teams, getting along great, speaking the same language is not what makes them successful. It is actually quite the opposite: it is the diversity that makes you a great team.you a great team."
 category: null
-tags: 
+tags:
   - teams
   - insights
 published: true

@@ -3,7 +3,13 @@ layout: post
 title: "Ambassadoring the Pioneers Festival"
 description: ""
 category: 
-tags: ["ambassador", "pioneers", "festival", "vienna", "startupLive", "startups"]
+tags: 
+  - "ambassador"
+  - "pioneers"
+  - "festival"
+  - "vienna"
+  - "startupLive"
+  - "startups"
 image: /assets/content/posts/pioneers.png
 ---
 {% include JB/setup %}

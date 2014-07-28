@@ -2,7 +2,10 @@
 layout: post
 title: "Importance is contextual"
 description: "I'm sitting in a plane to the US right now. And this is the perfect example case, because when I wanted to board I was asked to get out my mobile ticket, which -- of course -- was sent via email to me two days ago. But at the security check I was also asked for the details of my return flight, an email that was send to me roughly eight weeks ago. Of course I _starred both_ because they are important. But so are another forty-thirty-hundred emails, just not right now. Not in the moment I want to board. In this moment only emails that concern my travel are important. Which is an example case of what is truly important, because it depends highly on its context."
-tags: ["production", "thoughts", "importance"]
+tags:
+  - "production"
+  - "thoughts"
+  - "importance"
 ---
 {% include JB/setup %}
 

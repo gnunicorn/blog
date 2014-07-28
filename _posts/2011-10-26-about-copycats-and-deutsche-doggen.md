@@ -3,7 +3,11 @@ layout: post
 title: "about copycats and deutsche doggen"
 description: "Lately there has been a vivid discussion about the german copycats, a topic that&nbsp;resurfaces&nbsp;every couple of month in our local (meaning Berlin) startup community. This time it has been started by the call for an <a href='http://www.6wunderkinder.com/blog/2011/08/09/founders-stand-up-the-anti-copycat-revolution-starts-now/'>Anti-Copycat-Revolution by our dear friends at 6Wunderkinder</a> receiving a <a href='http://www.techberlin.com/post/8691059569/to-copy-or-not-copy'>lot</a> <a href='http://www.basicthinking.de/blog/2011/10/25/arger-uber-eingeschworene-berliner-startup-szene-lost-neue-debatte-uber-copycats-aus/'>of</a> <a href='http://www.heise.de/newsticker/meldung/Krach-in-Berliner-Gruenderszene-1365891.html'>public</a> <a href='http://www.ksta.de/html/artikel/1314098346298.shtml'>attention</a>. This discussion peaked last week when the usually not-very-bloggish <a href='http://www.gruenderszene.de/allgemein/copycats'>Gründerszene felt the need to critize 6Wunderkinder</a>. Their point being that copying has always been part of how creative innovation is achieved from BMW until today. Also pointing out&nbsp;that some the companies promoted in the 6Wunderkinder article are actually copiest, too. Heck, this ToDo-List-App-idea ain't remarkably new either."
 category: 
-tags: ["thoughts", "berlin", "germany", "copy-cats"]
+tags: 
+  - "thoughts"
+  - "berlin"
+  - "germany"
+  - "copy-cats"
 ---
 {% include JB/setup %}
 

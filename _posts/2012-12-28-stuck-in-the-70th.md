@@ -4,8 +4,10 @@ title: "Stuck in the 70th"
 tagline: "Monetization via AppStores on Mobile is broken"
 description: "Plenty of Apps existing in mobile stores (as well on Desktop-Stores) rely on a payment model as old and as broken as always, the end user licence fee: With a one-time fee you buy yourself access into the product and are allowed to use it. This model has been around since the seventieth but is as broken it was back than as it is now. And with even the big player like Microsoft and Adobe moving away from it into a service-based model, it has clearly been proven bad."
 category: 
-tags: ["monetization", "thoughts", "mobile"]
-
+tags: 
+  - "monetization"
+  - "thoughts"
+  - "mobile"
 ---
 {% include JB/setup %}
 

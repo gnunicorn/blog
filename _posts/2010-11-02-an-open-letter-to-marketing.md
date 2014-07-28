@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "An open letter to Marketing"
-tags: ["lean", "marketing", "performance"]
+tags: 
+  - "lean"
+  - "marketing"
+  - "performance"
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title: Diversity is crucial for startup culture
 description: "Diversity is quite the topic in tech. Not only since yesterday is the problem of this field being driven by white male middle class kids in discussion. But when I talk to fellow founders of startups they are looking at their own \"startup culture\" and find that \"not many people fit\" their culture and that way justify not hiring in a more diverse style. But they got it all backwards, because if the culture isn't based on diversity it is going to fail them in the long run."
 category: null
-tags: 
+tags:
   - diversity
   - thought
   - culture

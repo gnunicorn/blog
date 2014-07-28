@@ -9,7 +9,7 @@ title: Inflation caused by easiness
 tagline: Important processes shall take effort
 description: "With easier access comes higher traffic and usage of tools. The democratisation of many luxury products lead by a cheaper production followed by easier access changed our society deeply. The most prominent example of that is GPS navigation or blogging as a way for everyone to publish anything any time. And we in the tech-creation sphere have always aimed to make everything easier for everyone Ease-of-use and lowering the barrier are classic goals and mission statements of tech companies. But lowering the barrier has it drawbacks, too: The inflation of the output value."
 category: null
-tags: 
+tags:
   - insights
   - facebook
   - meetup

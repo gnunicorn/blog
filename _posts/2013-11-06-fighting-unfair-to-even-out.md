@@ -2,7 +2,11 @@
 layout: post
 title: "Fighting unfair to even out"
 description: "I am a person of principle. And I am very proud of it. But from time to time one has to rethink their principles and rules of behaviors. The world changes and so do we, as humans and as a society. What we considered a great principle at some point, looked at again today, might turns out to be stupid or mainly caused by circumstance. But sticking to something because \"it has always been this is way\" isn't principle, that's tradition. As humans we like this because it feels familiar. But traditions might not be appropriate in the zeitgeist. Principles need to change from time to time. Like fighting ethical  because it is for a good cause."
-tags: ["strategy", "thoughts", "for-good", "disadvantage"]
+tags:
+  - "strategy"
+  - "thoughts"
+  - "for-good"
+  - "disadvantage"
 image: /assets/content/posts/pillow-fight-bologna.jpg
 ---
 {% include JB/setup %}

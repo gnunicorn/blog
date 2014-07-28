@@ -3,7 +3,10 @@ layout: post
 title: "How do you learn to code?"
 tagline: "learning to code is a hard and lonely activity – but it doesn't have to be that way"
 description: "The [recent marketing efforts of campaigns and code.org](http://techcrunch.com/2013/12/08/obama-celebrities-politicians-and-tech-cos-come-together-to-launch-computer-science-education-push/) have been fruitful without question: people took part in the the [hour of code](http://code.org/hourofcode), [codeweek.eu](http://codeweek.eu/) and coding days. Though you can question the authority of some of the fore-speakers on that subject, more awareness arose. But is that really the problem - people not being interested in that subject? Is the missing interest really the reason why so few continue to learn to code? For the sake of argument, let's assume a kid took a peak into it at one-hour-of-code and now wants to learn it, for real. How? What offers can she take?"
-tags: ["learning", "programming", "thoughts"]
+tags:
+  - "learning"
+  - "programming"
+  - "thoughts"
 image: /assets/content/posts/ots-sthlm.JPG
 ---
 {% include JB/setup %}

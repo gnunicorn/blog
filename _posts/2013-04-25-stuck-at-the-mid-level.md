@@ -4,7 +4,11 @@ title: "Stuck at the mid level"
 tagline: "Ever wondered why german business don't scale up that quickly?"
 description: "Sure, Berlin is in the startup-hype-phase. And that attract many foreigners. But some voices raise the question of why that is, making the really interesting point on that there have been very little huge success stories with unique and interesting ideas and inventions here for a while. While some argue that is because of a lack of innovation in the blood of germans, I argue it is a very comfortable market size that holds them back. If you think about it makes perfect sense and doesn't only explain why so many German Companies never expand above the border but also why some countries, like in the north or south of europe, have unproportionally many big successors."
 category: 
-tags: ["entrepreneurship", "markets", "products", "insights"]
+tags: 
+  - "entrepreneurship"
+  - "markets"
+  - "products"
+  - "insights"
 ---
 {% include JB/setup %}
 

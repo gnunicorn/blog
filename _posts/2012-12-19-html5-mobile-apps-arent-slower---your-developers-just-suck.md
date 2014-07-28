@@ -3,7 +3,13 @@ layout: post
 title: "HTML5 mobile apps aren't slower  - your developers just suck"
 description: "I already argued last year that [switching from HTML5 Mobiles Apps to native ones might actually not be an argument FOR going HTML5](/2011/12/04/why-6wunderkinder-rewritting-their-apps-as-native-is-an-argument-pro-cross-platform-frameworks) and not against it - from a business perspective. Now recently the discussion came up again, when Facebook rewrote their mobile apps from HTML5 into native and [Mark Zuckerberg stating that HTML5 wasn't there yet](http://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/). I was suspscisious about that remark from early on because their boost in performance, even with the embedded-safari lack seemed very unlikely. Now Sencha Touch - an HTML5-Mobile-Framework - [released their rewrite of the _new Facebook_-App as HTML5](http://www.sencha.com/blog/the-making-of-fastbook-an-html5-love-story), which isn't only faster than the HTML5-App facebook used to have but is even more responsive than their current native Apps. Oups."
 category: 
-tags: ["technology", "mobile", "html5", "ios", "android", "thoughts"]
+tags: 
+  - "technology"
+  - "mobile"
+  - "html5"
+  - "ios"
+  - "android"
+  - "thoughts"
 ---
 {% include JB/setup %}
 

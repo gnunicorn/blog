@@ -4,7 +4,11 @@ title: "About naming names"
 tagline: "I am very critical in this blog but rarely name anyone, here is why."
 description: "When I read [Ciaran](https://twitter.com/ciaranoleary)'s blog [article on good karma](http://berlinvc.com/2013/02/21/something-to-think-about-the-importance-of-good-karma/), it reminded me that I have one post on my todo-list for a while: the question why I do not name names in this Blog. I have been very critical and often, when reading close enough (and be knowledged about the startup scene, especially in Berlin), you know exactly who I am talking about. But I do not give the name. And I have two very good reasons why."
 category: 
-tags: ["infrastructure", "insights", "passion", "motivation"]
+tags: 
+  - "infrastructure"
+  - "insights"
+  - "passion"
+  - "motivation"
 ---
 {% include JB/setup %}
 

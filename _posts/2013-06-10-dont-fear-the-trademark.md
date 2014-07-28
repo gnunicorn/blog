@@ -7,7 +7,7 @@ order: 0
 item: item1
 title: "Don't fear the trademark"
 category: null
-tags: 
+tags:
   - legal
   - licences
   - fear

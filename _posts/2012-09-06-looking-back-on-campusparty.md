@@ -3,7 +3,10 @@ layout: post
 title: "Looking Back on CampusParty"
 description: "End of Last Month, CampusParty came into town: for almost a full week at the end of August a few thousand developers, hackers, students and tech enthusiast took over Tempelhof Airport and made a big tech party. I wasn't only involved as the Ambassador for the Entrepreneurship stage but also co-organised an open workshop area with my fellow [OpenTechSchool people](http://blog.opentechschool.org/2012/08/looking-back-on-otscamp-at-campus-party-berlin.html). When looking back, the most important for me is to thank a few people I really enjoyed working with to get this done."
 category: 
-tags: ["conference", "ambassador", "campusparty"]
+tags: 
+  - "conference"
+  - "ambassador"
+  - "campusparty"
 image: https://lh5.googleusercontent.com/-uCHxHu9SEuQ/UDpWZIxuFfI/AAAAAAAAADI/YST4v34SKTs/w974-h180/PANO_20120821_155041.jpg
 ---
 {% include JB/setup %}

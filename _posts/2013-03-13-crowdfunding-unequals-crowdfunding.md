@@ -3,7 +3,10 @@ layout: post
 title: "Crowdfunding unequals Crowdfunding"
 description: "Crowdfunding has become a constant in early project financing in Germany over the last year. Especially in the startup-scene it got quite some attraction as an alternative funding model for early companies. And the more relaxed rules around project funding in Germany in comparison with the US (yes, we are more relaxed with our rules for ones), also made it something unique and looked for internationally. But not everything we call crowdfunding today is the same and works for every model equally. Time too look into this. "
 category: 
-tags: ["crowdfunding", "funding", "insights"]
+tags: 
+  - "crowdfunding"
+  - "funding"
+  - "insights"
 ---
 {% include JB/setup %}
 

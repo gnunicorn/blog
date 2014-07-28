@@ -3,7 +3,9 @@ layout: post
 title: "Technology ≠ Product"
 description: "People way to often mistake technology and products. Being a \"technology company\" kinda became a trend over the last few years but by only focussing on the technology, building it and testing it on the market, many fail short in making something really remarkable with an impact that changes the way the world spins - many miss out on creating a real product."
 category: 
-tags: ["technology", "product"]
+tags: 
+  - "technology"
+  - "product"
 ---
 {% include JB/setup %}
 

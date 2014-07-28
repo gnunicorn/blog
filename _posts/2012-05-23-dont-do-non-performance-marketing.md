@@ -3,7 +3,10 @@ layout: post
 title: "don't do non-performance marketing"
 description: "It is the year two thousand twelve. All of the United States and the bigger part of Europe are connected to the internet. Heck even Africa catches up, not even talking about Asia here. Advertising goes mostly through this medium by now. How did that happen? Because it had one advantage other media was unable to provide: trackabilitiy. For every dollar you spend on Adwards, it can tell you the money in return you made. Or you didn't, so you can decide to cut it. Suddenly you can spend money only on those things which work. And don't have to pump huge amounts of money to fuel a fire you were unable to see."
 category: 
-tags: ["jobs", "marketing", "startup scene"]
+tags: 
+  - "jobs"
+  - "marketing"
+  - "startup scene"
 ---
 {% include JB/setup %}
 It is the year two thousand twelve. All of the United States and the bigger part of Europe are connected to the internet. Heck even Africa catches up, not even talking about Asia here. Advertising goes mostly through this medium by now. How did that happen? Because it had one advantage other media was unable to provide: trackabilitiy. For every dollar you spend on Adwards, it can tell you the money in return you made. Or you didn't, so you can decide to cut it. Suddenly you can spend money only on those things which work. And don't have to pump huge amounts of money to fuel a fire you were unable to see.

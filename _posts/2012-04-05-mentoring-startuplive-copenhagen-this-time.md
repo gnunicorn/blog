@@ -2,7 +2,10 @@
 layout: post
 title: "Mentoring StartupLive: Copenhagen this time"
 description: ""
-tags: ["startupLive", "mentor", "copenhagen"]
+tags: 
+  - "startupLive"
+  - "mentor"
+  - "copenhagen"
 
 image: /assets/content/posts/startup_live_cph.png
 ---

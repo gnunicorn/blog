@@ -3,7 +3,10 @@ layout: post
 title: "When they say passion they mean pain"
 description: "I recently put myself up to learn more about motivation. Motivated myself by the great [TED-Talk by Dan Pink on Motivation](http://www.ted.com/talks/dan_pink_on_motivation.html) questioning the incentive driven approach as the best motivator for modern, creative tasks. As a person, who never got much motivation by material incentives at all, I was intrigued and decided to look further on what motives us, what is the drive. And found an interesting case in exactly what all the investors tell you all the time."
 category: 
-tags: ["passion", "entrepreneurship", "motivation"]
+tags: 
+  - "passion"
+  - "entrepreneurship"
+  - "motivation"
 ---
 {% include JB/setup %}
 

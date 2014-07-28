@@ -2,8 +2,11 @@
 layout: post
 title: "over this weekend at FOSDEM I learned"
 description: "Coming back from FOSDEM there are a few things I learned and I'd like to share with you. Aside from Belgium Beer and stuff I learned about myself, there have also been things to keep in mind if I ever host a conference myself..."
-category: 
-tags: ["opensource", "conference", "travel"]
+category:
+tags:
+  - "opensource"
+  - "conference"
+  - "travel"
 ---
 {% include JB/setup %}
 

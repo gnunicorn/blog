@@ -6,7 +6,10 @@ description: "Last week I presented 'Club der Beschleuniger eG' in public for th
 
 So, without any further introduction I present to you the <a href='http://www.techberlin.com/post/11605973919/ode-to-startups-its-poetry-time-above-a-poem'>re-recording I did for techberlin.com</a>..."
 
-tags: ["berlin", "startup scene", "germany"]
+tags:
+  - "berlin"
+  - "startup scene"
+  - "germany"
 ---
 {% include JB/setup %}
 

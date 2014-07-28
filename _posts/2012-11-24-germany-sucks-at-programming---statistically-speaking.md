@@ -4,7 +4,11 @@ title: "Germany sucks at programming - statistically speaking"
 tagline: "And what happened in Sweden between 2009 and 2011 to make their relative number double?"
 description: "The European Union recently published their numbers of the Digital Agenda for Europe online. On top of providing the data for download, they also [provide a visualisation and graphing tool](https://ec.europa.eu/digital-agenda/en/graphs) usable for anyway, which allow you to easily cross-link various indicators they are tracking over the last couple of years - real accessibility."
 category: 
-tags: ["startups", "programming", "statistics", "EU"]
+tags: 
+  - "startups"
+  - "programming"
+  - "statistics"
+  - "EU"
 image: /assets/content/posts/programming_in_sweeden_screenshot.png
 ---
 {% include JB/setup %}

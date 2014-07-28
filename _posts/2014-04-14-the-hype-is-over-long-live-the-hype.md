@@ -2,7 +2,10 @@
 layout: post
 title: "The hype is over. Long live the hype."
 description: "[I recently published my projections](/2014/03/12/berlins-future-same-old-same-old) for this year as being rather boring than interesting for the Berlin startup scene. Looking at these numbers it is pretty obvious, the startup hype in Berlin was just exactly that: a hype. But does that mean the hype is over? Yes! And no! On one side because investors, as well as mass media will continue with reciting the tale of Soundcloud and Wunderkinder. Even though, tech-wise, the scene will consolidate even further, Berlin has by far the best chances to become the startup center Europe has been craving for for so long."
-tags: ["berlin", "entrepreneurship", "investments", ]
+tags:
+  - "berlin"
+  - "entrepreneurship"
+  - "investments"
 image: /assets/content/posts/2014-04-14-the-rollercoaster-of-hype.jpg
 ---
 {% include JB/setup %}

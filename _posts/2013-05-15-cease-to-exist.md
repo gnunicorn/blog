@@ -4,7 +4,12 @@ title: "Cease to exist"
 tagline: "A companies goal should always be to become obsolete"
 description: "The other day I was talking with a few friends about the OpenTechSchool initiative that I am very proud to be part of. One question we were talking about, was the reason behind that whole thing and I painted this picture, the perfect world scenario in which the OpenTechSchool would cease to exist because it simply wouldn't have any point any more. And if that would be the case I'd be happy for it to cease to exist."
 category: 
-tags: ["insights", "thoughts", "entrepreneurship", "companies", "legal"]
+tags:
+  - "insights"
+  - "thoughts"
+  - "entrepreneurship"
+  - "companies"
+  - "legal"
 ---
 {% include JB/setup %}
 

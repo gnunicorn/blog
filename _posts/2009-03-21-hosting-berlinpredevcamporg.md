@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "hosting berlin.preDevCamp.org"
-tags: ["webos", "hosting", "conference"]
+tags: 
+  - "webos"
+  - "hosting"
+  - "conference"
 ---
 {% include JB/setup %}
 

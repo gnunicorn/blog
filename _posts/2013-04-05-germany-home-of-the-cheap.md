@@ -4,7 +4,11 @@ title: "Germany, home of the cheap"
 tagline: "Efficiency comes with a price. A price we all have to pay."
 description: "For years and years there has been an [on-going debate about Germany being \"a service desert\"](http://www.spiegel.de/international/waiting-for-a-waiter-surviving-germany-s-service-wasteland-a-409948.html) and though Berlin might be a obscure island in a big ocean, it is very true here as well. The more people I meet, coming here to work in the Berlin industry the more I understand their difficulties with this. It is really hard to understand why there isn't any tax accountant taking the effort to *try to speak English* or why there aren't many companies specifically trying to help foreign to settle here by providing support with paperwork and such. As a kid, who grew up in [East Westfalia](http://en.wikipedia.org/wiki/Westphalia) - an exceptionally penurious part of Germany - I am used to this and never experienced it as a problem, nor ever thought about it. But me recently being to London made me realise what it is: the **German mentality of optimising efficiency**, the single one thing which got us through the crisis rather okay-ish, **is also our biggest curse and will hurt us in the long run**."
 category: 
-tags: ["insight", "thoughts", "berlin", "germany"]
+tags: 
+  - "insight"
+  - "thoughts"
+  - "berlin"
+  - "germany"
 ---
 {% include JB/setup %}
 

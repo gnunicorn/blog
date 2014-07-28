@@ -3,7 +3,11 @@ layout: post
 title: "Not Deciding is a Decision"
 description: "Postponing the decision process has long-been a inner-human nature and as such not only been fostered in big-corporation environment but basically everywhere. Especially with the huge amount of possibilities we have in western society, [the paradoxy of choice](http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice.html) doesn't really make things easier. As a result very often, we rather don't take any decision or postpone and defer it as long as we can. In hopes of not making the wrong one. What we are not aware of is that this is probably the worst decision we can take. Because not deciding is a decision."
 category: 
-tags: ['insights', 'thoughts', 'methods', 'motivation']
+tags: 
+  - 'insights'
+  - 'thoughts'
+  - 'methods'
+  - 'motivation'
 ---
 {% include JB/setup %}
 

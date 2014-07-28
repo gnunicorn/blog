@@ -9,7 +9,7 @@ title: "Content creation isn't about the tool"
 tagline: "Which is why your tool ain't gonna fix it"
 description: " We software developers have a tendency to look for the best suited tool and can spend days researching and playing with them. As an example, I went through multiple blogging systems and various publishing tools in my time. It took me quite a while to learn - and even longer to accept - that **the tool doesn't actually matter for content creation**. I can blame the blogging engine as much as I want but the reason for me not writing isn't the tools fault but mine. Because content creation is a problem no tool will ever solve."
 category: null
-tags: 
+tags:
   - insights
   - thoughts
   - tools

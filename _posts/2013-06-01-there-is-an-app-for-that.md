@@ -3,8 +3,14 @@ layout: post
 title: "There is an app for that"
 tagline: "Some problems really do not require any technical solution"
 description: "On a hackathon I have been to recently, one team was pitching an idea for a mobile App that helps you chose your future kids name together with your partner. The technical solution they were proposing was by having each partner  rate names in a binary yes-no-fashion and using recommendation systems to find a name both like equally much."
-category: 
-tags: ["hackathon", "insights", "thoughts", "recommendation", "emotional", "app"]
+category:
+tags:
+  - "hackathon"
+  - "insights"
+  - "thoughts"
+  - "recommendation"
+  - "emotional"
+  - "app"
 ---
 {% include JB/setup %}
 

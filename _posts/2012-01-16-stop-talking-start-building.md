@@ -3,7 +3,10 @@ layout: post
 title: "Stop talking, start building"
 description: "From early on as a developer you quickly realise there are two types of people you work this: the doers and the talkers. Generally most CEO, marketing, sales and especially management people you deal with in any kind of bigger company, you quickly understand as being talkers. They talk about stuff but barely do it themselves and therefore have to deal with underlying sh&#42;t they came up with. Coming from the Web-Agency-Business you also understand many of your clients actually are doers; to them it is more important to think and talk about a potential solution until every part is explored. But if software craftsmanship has taught us anything it is there are more possibilities than you can think of, which often comes back to you as there are more problems than you imagined in the first place, too."
 category: 
-tags: ["plea", "lean", "methods"]
+tags: 
+  - "plea"
+  - "lean"
+  - "methods"
 ---
 {% include JB/setup %}
 

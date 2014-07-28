@@ -4,7 +4,10 @@ title: "Does this mean we can't pay online anymore?"
 tagline: "What the court Ruling of pizza.de against Lieferheld really means"
 description: "The court case of pizza.de against Lieferheld [made](http://www.deutsche-startups.de/2011/10/06/lieferheld-pizza-urteil-bafin/) [quite](http://www.gruenderszene.de/interviews/bafin-lieferheld-pizza-de-fabian-siegel) some buzz in the local startup scene. A lot of companies and founders are unsure whether their online business are now at threat by the BaFin and would actually need to acquire a licence. And though it seem complicated on first sight, once you understand the background there is only very little you have to fear for your venture."
 category: 
-tags: ["jurisdiction", "payment", "lieferheld"]
+tags: 
+  - "jurisdiction"
+  - "payment"
+  - "lieferheld"
 ---
 {% include JB/setup %}
 

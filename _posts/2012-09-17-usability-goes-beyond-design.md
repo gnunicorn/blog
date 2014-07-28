@@ -4,7 +4,10 @@ title: "Usability goes beyond design"
 description: "Form follows function. That simple and elegant sentence has been the credo the Bauhaus designed their building and objects, as did Braun their electronic devices from the 50th. And though there is a distinct beauty in its simplicity this sentence goes beyond making some look pretty but always put functionality first. Something we in the tech industry failed miserably at for the last few decades by giving every feature its button and not cutting down features. But the latest trend to go for beautiful web designs also doesn't cut it. Because a great design goes beyond beauty and often actually against it."
 tagline: "Designing (web) tools is more than just making them look pretty. By focussing on pretty first you actually make them less usable."
 category: 
-tags: ["thoughts", "design", "startup scene"]
+tags: 
+  - "thoughts"
+  - "design"
+  - "startup scene"
 ---
 {% include JB/setup %}
 

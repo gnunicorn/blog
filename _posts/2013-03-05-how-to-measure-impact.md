@@ -3,7 +3,10 @@ layout: post
 title: "How to measure impact"
 description: "When I was in [Stockholm with the OpenTechSchool](http://blog.opentechschool.org/2012/09/stockholm-calling.html) last november, we had the great opportunity to go to TEDx. There we met a remarkable Person, [Professor Mark Smith, talking about his hackerspace at University and how to measure impact](http://www.youtube.com/watch?v=BF56NEcmWDE). He made the point that the current way University measures success, by the papers published, is disconnected from the impact it really has. And he opens the questions: how can we measure impact?"
 category: 
-tags: ["insight", "thoughts", "stockholm"]
+tags: 
+  - "insight"
+  - "thoughts"
+  - "stockholm"
 ---
 {% include JB/setup %}
 

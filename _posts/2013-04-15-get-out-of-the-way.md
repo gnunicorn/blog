@@ -4,7 +4,13 @@ title: "Get out of the way"
 tagline: "The number one mistake of todo list apps and project management tools in general."
 description: "So [Google recently launched keep](http://www.latimes.com/business/technology/la-fi-tn-google-keep-android-20130320,0,7883861.story), basically an Evernote competitor with some nice looking features like check-lists inside. As I had to do some larger groceries shopping for an extensive Thai-Food-Meal anyways, I decided to give it a spin. And after typing in the list of 50+ items into my phone - which takes way to long and I won't repeat again, I went out to get those groceries. Boy, never again. As so many other todo-list apps and project managers, also Google Keep fails on one major aspect: getting out of the way."
 category: 
-tags: ["insights", "thoughts", "tools", "products", "management", "todo list"]
+tags: 
+  - "insights"
+  - "thoughts"
+  - "tools"
+  - "products"
+  - "management"
+  - "todo list"
 ---
 {% include JB/setup %}
 
