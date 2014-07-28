@@ -14,6 +14,8 @@ Just try to fit something like OpenTechSchool, Hackership, Discourse or – for 
 
 Another example? The lean canvas also makes you define your project's "unfair advantage". Back to Mozilla: it doesn't want to have an unfair advantage. Of course, you could argue that through their brilliant developers they are technically in a position that is hard to match, giving them an unfair advantage. Yet, they attract these great developers while paying below-market salaries. If it were about money, you could easily match up to this. The thing is, that it isn't. Mozilla isn't about money. Mozilla is about openness, about progress and fixing problems. That's why **so many techies** – including me – **struggle with the Lean Canvas, it misses the point**. We don't care about making money – that's just a side-effect and something that allows us to keep paying rent. We take the step because we want to make a difference, want our work to benefit others who have a similar itch and make a tiny, purposeful dent in the universe. So **unless your concept development tool lets you express that, it will lead you off path**. Like the Lean Canvas does for most tech ventures.
 
+**Update, July 28th 2014**: Thinking about it further I find a lot more problems in using the Lean Startup Canvas for tech ventures, leading me to conclude that [it is just the wrong tool for the job](/2014/07/28/lean-startup-canvas-the-wrong-tool).
+
 ----
 
 Thanks to [Jim Carroll for taking this picture of a derailed Google Bike](https://www.flickr.com/photos/46131588@N02/6779140395/) and publishing it under CC-BY 2.0 on flickr.

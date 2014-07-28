@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The broken path of using Lean Startup Canvas for Tech Ventures"
-description: ""
+title: "Lean Startup Canvas: the wrong tool."
+description: "I already <span class=\"strikethrough\">ranted</span>wrote about the [Lean Startup Canvas last week](/2014/07/21/warning-lean-startup-canvas-may-derail-your-tech-venture). After giving it some more thought, I now realize that the problems with the canvas extend beyond its focus on profit as the main purpose for any venture. In fact, I argue that the canvas fails to capture the nature of many tech-driven ventures and the motivation of their founders. Let me explain."
 tags: ["lean canvas", "thoughts", "lean", "broken"]
-image: /assets/content/posts/broken-path.jpg
+image: /assets/content/posts/2014-07-28-hammer-the-screw.jpg
 ---
 
-I already <span class="strikethrough">ranted</span>wrote about the [Lean Startup Canvas last week](/2014/07/22/lean-canvas-missing-pieces/). After giving it some more thought, I now realize that the problems with the canvas extend beyond its focus on profit as the main purpose for any venture. In fact, I argue that the canvas fails to capture the nature of many tech-driven ventures and the motivation of their founders. Let me explain:
+I already <span class="strikethrough">ranted</span>wrote about the [Lean Startup Canvas last week](/2014/07/21/warning-lean-startup-canvas-may-derail-your-tech-venture). After giving it some more thought, I now realize that the problems with the canvas extend beyond its focus on profit as the main purpose for any venture. In fact, I argue that the canvas fails to capture the nature of many tech-driven ventures and the motivation of their founders. Let me explain:
 
 ### Product vs. Market
 
@@ -42,7 +42,7 @@ If done early on, this in turn would help you realise when is the right moment t
 
 ---
 
-<small>A great thanks to [Paulo Ordoveza for photographing the broken stay](https://www.flickr.com/photos/brownpau/3177430299) and publishing it [under CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/).</small>
+<small>A great thanks to [Justin Baeder for trying to hammer the nail](https://www.flickr.com/photos/justinbaeder/5317820857), take a picture of it and publishing it [under CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/).</small>
 
 
 
