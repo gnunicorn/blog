@@ -46,11 +46,3 @@ The premise is simply different for tech ventures. A canvas for tech creationist
 If done early on, this in turn would help you realise when is the right moment to take the step of publishing and promoting. By having that stated in black and white, I believe this can reduce the fear and motivate techies to go out and do the – to them – hard part of selling it, such that the technology can realise its potential impact. The Lean Canvas is not able to deliver on any of these accounts. We need something else².
 
 ---
-
-<small>A great thanks to [Justin Baeder for trying to hammer the nail](https://www.flickr.com/photos/justinbaeder/5317820857), take a picture of it and publishing it [under CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/).</small>
-
-
-
-<small>¹ been there, done that.</small>
-
-<small>² working on it.</small>
