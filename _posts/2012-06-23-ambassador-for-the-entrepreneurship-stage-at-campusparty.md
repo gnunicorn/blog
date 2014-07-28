@@ -9,7 +9,7 @@ tags:
   - "conference"
   - "festival"
   - "entrepreneurship"
-  - "startups"]
+  - "startups"
 ---
 {% include JB/setup %}
 
