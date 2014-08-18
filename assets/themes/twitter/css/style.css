@@ -158,3 +158,33 @@ footer .imprint {
 .post .post-content .footnotes p {
 	margin-bottom: 0;
 }
+
+p.centered {
+	text-align: center;
+}
+
+.post-content a {
+	color: #3A87AD;
+}
+
+.post-content a.cta-button {
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  color: #3A87AD;
+  font-size: 28px;
+  background: white;
+  padding: 15px 25px 15px 25px;
+  border: solid #3A87AD 2px;
+  text-decoration: none;
+  text-align: center;
+  margin: 10px auto;
+  display: inline-block;
+  font-family: sans-serif;
+}
+
+.post-content a.cta-button:hover {
+  background: #3A87AD;
+  color: white;
+  text-decoration: none;
+}

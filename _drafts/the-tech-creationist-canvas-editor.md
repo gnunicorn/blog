@@ -3,28 +3,21 @@ layout: post
 title: "Tech Creationist Canvas Editor"
 description: ""
 tags: ["create build execute", "tech creationist canvas", "business model canvas", "cbe", "lean startup canvas", "lean startup"]
+date: 2014-08-19
 ---
 {% include JB/setup %}
 
-In order to make using and developing your own Tech Creationist Canvas easier, I've build a [Tech Creationist Canvas editor](http://canvas.create-build-execute.com) helping in developing the Tech Canvas for your tech venture – [Free and Open Source](https://github.com/ligthyear/tech-creationist-canvas). This article will guide you through developing your very own Tech Creationist Canvas, covers some important implementation details and will help you understand how to integrate the editor and the renderer into your very own project.
+[![The Tech Creationist Canvas](/assets/content/posts/tech-creationist-canvas.png)](/assets/content/posts/tech-creationist-canvas.png)
 
-
-.Note: If you don't know about the principles of the Tech Creationist Canvas, I recommend reading up about them here. There is also a guide helping you understand the various sections of it.
-
-
-----
-
-## The Tech Creationist Canvas Editor
-
-
-If you [open the editor](http://canvas.create-build-execute.com) without any specific example in mind it will load the Canvas explaining the Tech Creationist Canvas as well as loads the source file in the editor on the bottom.
+If you [open the editor](http://canvas.create-build-execute.com) without any further instructions it will pre-fill with the Tech Creationist Canvas (TCC) and open the source file in the editor on the bottom – yes, Tech Creationist Canvas is [self-hosting ;)](http://en.wikipedia.org/wiki/Self-hosting).
 
 ## One YAML to rule them all
-The source format for the canvas is a yaml file. The Editor is a live-editor, meaning when you change things it will automatically render the new version. I recommend using the default TCC yaml or any of the other examples provided and just change things to fit your project.
+The source format for the canvas is a [YAML](http://en.wikipedia.org/wiki/YAML) file. The Editor is a live-editor: every change you do will directly rerender the view. I recommend using the default TCC yaml or one of the other examples provided and get started by adapting it to fit your project.
 
-On the top of the canvas you find a few meta information to fill in like
+On the top of the canvas you find a few meta information to fill in like:
 
-``` yaml
+{% highlight yaml %}
+
 # the name of the project
 name: "Tech Creationist Canvas"
 
@@ -39,45 +32,56 @@ version: 2.0
 
 # when did you change this?
 date: July 29th, 2014 – 11:33
-```
 
-Out of them only the renderer has a meaning for the Canvas itself. It allows you to switch between this Tech Creationist Canvas (`tcc`),  the Lean Startup Canvas (`lsc`) and the Business Model Canvas (`bmc`). Each one comes with their own set of keys to set in a different format and as they aren't compatible with each other are not automatically converted. If you want to switch to a different renderer, I recommend loading an example with such a renderer and take it from there. This document will only describe the TCC renderer in detail.
+{% endhighlight %}
 
-Version and Date are just meta information to keep track for yourself.
+Out of them only `renderer` has a meaning for the Canvas itself. It allows you to switch between this Tech Creationist Canvas (`tcc`),  the Lean Startup Canvas (`lsc`) and the Business Model Canvas (`bmc`) renderers. Each one comes with their own set of keys to set in a different format. They aren't compatible with each other and can't be automatically converted. If you want to switch to a different renderer, I recommend loading an example with such a renderer and take it from there. **This document will only describe the TCC renderer in detail**.
+
+`version` and `date` are just meta information to keep track for yourself.
 
 
 ## May the source be with you
 
-As the Canvas can be described (and rendered from) this easy to handle source yaml text-file, I recommend including it in the source repo along with the Licence and Readme file. It is easily readible and structured in a straight forward manner. This also allows for easy updates and revision tracking through git alongside your normal source.
+As the Canvas can be described (and rendered from) this easy to handle source yaml plain text file, I recommend including it in the source code repository alongside  the Licence and Readme file. It is easily readable and structured in a straight forward manner. This also allows for easy updates and revision tracking through [git](http://git-scm.com/) alongside your normal source.
 
-As you might have noticed the editor loads its own examples from github. The same way it does it, you can also specify your repo in the URL to make the editor load your Canvas and render it (for example from your Readme). The format is as follows:
+As you might have noticed the editor loads its own examples from Github. The same way it does it, you can also specify your repo in the URL to make the editor load your canvas and render it (for example from your Readme). The format is as follows:
 
-  ```http://ligthyear.github.io/tech-creationist-canvas/#github=REPO:FILE```
+`http://canvas.create-build-execute.com/#github=REPO:FILE`
 
 Where `REPO` is the name of the repository on github (including the Organisation or Username) and `FILE` being the path (on the main branch) to the canvas file to load. If `FILE` is omitted, the editor tries to load the `tcc.yml` in the root per default.
 
 Examples:
 
-  ```
-  http://ligthyear.github.io/tech-creationist-canvas/#github=ligthyear/tech-creationist-canvas
-  http://ligthyear.github.io/tech-creationist-canvas/#github=ligthyear/tech-creationist-canvas:examples/discourse.yml
-  ```
+  
+  `http://canvas.create-build-execute.com/#github=ligthyear/tech-creationist-canvas`
+
+  `http://canvas.create-build-execute.com/#github=ligthyear/tech-creationist-canvas:examples/discourse.yml`
+  
 
 **Gist Support**
 
-If you'd reather want the editor to load the Canvas source from a gist, you can use the `#gist=GISTID` feature in the URL
+If you'd rather want the editor to load the Canvas source from a [Gist](https://gist.github.com/), you can use the `#gist=GISTID` feature in the URL
 
 **Full-Data Support**
 
-If you click the "permalink" feature, the editor will create a link including the entire yaml from the editor *as is* as a base64-string prefixed with `#data`. This is very helpful to quickly share your state with someone else or send around an experiement via email without having to store the source file somewhere. Just copy-paste that link and send it over and it will always and for ever render the same version of the canvas. Of course this could also be autogenerated from the source file directly.
+If you click the "permalink" feature, the editor will create a link including the entire yaml from the editor *as is* as a base64-string prefixed with `#data`. This is very helpful to quickly share your state with someone else or send around an experiment via email without having to store the source file somewhere. Just copy-paste that link and send it over and it will always and for ever render the same version of the canvas. Of course this could also be auto generated from the source file directly, if you prefer that.
 
 
 ## Embedding
 
-This data feature is also used to allow for easy embedding. Just click on the `embed` link to receive an html-iframe-blob to copy and paste whereever you like. It will link and load to the current version from the editor. This is just a handy function you can also simply embed whatever URL you are looking at the moment. The editor is smart enough to detect that it is loaded to through an iframe and won't show the editor functionality that's it.
+This data feature is also used to allow for easy embedding. Just click on the `embed` link to receive an html-iframe-blob to copy-paste where ever you like. It will link and load to the current version from the editor. This is just a handy function you can also simply embed whatever URL you are looking at the moment. The editor is smart enough to detect that it is loaded by an iframe and won't show the editor functionality. That's it.
+
+## Collaboration
+
+The editor is open source and on Github. It is licensed under BSD. Please feel free to open Issue or Send Pull-Requests. And of course share your feedback, tips and tricks or how you are using it either here in the comments or [directly via email](mailto:ben[at]create-build-execute[dot]com). Any feedback highly appreciated!
+
 
 ---
 
-That's it. You are have been tought in handeling the mighty Tech Creationist Canvas. Please use it for good, not for evil. Now, go out there and change the world for the better.
+**Read Next**
 
-![Link likes the TCC]
+ - [Introducing the Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/)
+ - [The Principles of The Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/)
+ - [The Tech Creationist Canvas explained](/2014/08/19/tech-creationist-canvas-explained/)
+
+---

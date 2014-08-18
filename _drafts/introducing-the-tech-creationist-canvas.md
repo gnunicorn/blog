@@ -3,33 +3,46 @@ layout: post
 title: "Introducing: the Tech Creationist Canvas"
 description: ""
 tags: ["create build execute", "tech creationist canvas", "business model canvas", "cbe", "lean startup canvas", "lean startup"]
+date: 2014-08-19
 ---
 {% include JB/setup %}
 
 
-Over the last couple of weeks I've taken a deeper look into the Lean Startup Canvas. It is an great tools to gauge risks and evaluate business models and is widely used in tech. However, I came to the conclusion that for developer-driven tech ventures it isn't only a bad fit, it is outright harmful – read more about that here. Today I want to talk about an alternative approach.
+Over the last couple of weeks I've taken a deeper look into the [Lean Startup Canvas](http://practicetrumpstheory.com/2012/02/why-lean-canvas/). It is an great tools to gauge risks and evaluate business models and is widely used in tech. However, I came to the conclusion that for developer-driven tech ventures it [isn't only a bad fit](/2014/07/21/warning-lean-startup-canvas-may-derail-your-tech-venture), it is [outright harmful](/2014/07/28/lean-startup-canvas-the-wrong-tool). Today I want to share with you an alternative approach.
 
-# Introducing: The Tech Creationist Canvas.
+### Introducing: The Tech Creationist Canvas
 
-Based on the iterative ideas and principles of the Lean Startup Canvas, the Tech Creationist Canvas also is a living document. Though totally applicable for startup and businesses in general, the Tech Creationist Canvas has the desired purpose at heart and asks the author to think about the problem, the solution, the benefactors (rather than customers) and how to reach them through that lense.
+[![The Tech Creationist Canvas](/assets/content/posts/tech-creationist-canvas.png)](/assets/content/posts/tech-creationist-canvas.png)
 
-Build for tech ventures, the Tech Creationist Canvas is very well aware of the inherinetly different structure of their production cycle. Allowing it to forces the author to think about the initial costs as well as how, when and through whom to make it grow and sustain from early on. And through that avoid common pitfalls and the "just that other feature"-loop. [Learn more about the basic principles of the Tech Creationist Canvas]() and [read the in-depth guide for all sections here]().
+Based on the iterative ideas and principles of the Lean Startup, the Tech Creationist Canvas, too, acts as a living document. Though totally applicable for startup and businesses in general, the Tech Creationist Canvas has the **desired purpose at heart** and asks the author to think about the problem, the solution, the benefactors (rather than customers) and how to communicate with them.
 
-## Including an editor – free and open source
+Build for tech ventures, the Tech Creationist Canvas is very well aware of the inherinetly different structure of their production cycle. Allowing it to force the author to think about the initial costs as well as how, when and through whom to make it grow and sustain from early on. Through that avoid common pitfalls and the "just that other feature"-loop. [Learn more about the basic principles of the Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/) and [read the in-depth guide for all sections here](/2014/08/19/tech-creationist-canvas-explained/).
 
-One common issue I, as a developer, have with many business tools is that they aren't very accessible nor easy to track or spread. A paper  with post-its simply isn't very helpful in a distributed team, most online tools don't even allow public sharing nor proper exporting.Annoyed by this lack of accessibility, I have developed a yaml-file based Editor and Renderer for the Tech Creationist Canvas, with plenty of example to get you started quickly.
+#### Including an editor – free and open source
 
-By using a text-based file, you can track the source in your Git-Repository alongside the Readme and the Licence-File. The online editor has build-in support for loading canvases from github repositories, gists and through base64-data-parameters. Please don't hesitate to report bugs or send pull request on it. [Read all about the editor here]().
+One common issue I, as a developer, have with many business tools is that they aren't very accessible nor easy to track, spread and share. A paper with post-its simply isn't very helpful in a distributed team, most online tools don't even allow public sharing nor proper exporting. Annoyed by this lack of accessibility, I have developed a **yaml-file based [editor and renderer for the Tech Creationist Canvas](http://cavans.create-build-execute.com/)**, with plenty of example to get you started quickly.
 
-{.button}
-[Start the editor now]
+By using a plain text file, you can easily track process by putting the source in your Git-Repository alongside the Readme and the Licence-File. The online editor has _build-in support_ for loading canvases from _github_ repositories, gists and through base64-data-parameters. Please don't hesitate to [report bugs or send pull request](https://github.com/ligthyear/tech-creationist-canvas) on it. [Read all about the editor here](/2014/08/19/the-tech-creationist-canvas-editor/).
 
-## The experiment continues
+<p class="centered">
+    <a href='http://canvas.create-build-execute.com' taget="_blank" class="cta-button"> Start the editor now</a>
+</p>
 
-Though I am quite happy with the state the Tech Creationist Canvas is at right now (I call it Version-1), I don't consider it a static tool either but a living experiment. Over the next couple of weeks I test the Tech Creationist Canvas by using it as a case-file manager, trying to describe existing (and upcoming) tech ventures in a series about OpenSource, Community-driven Businesses.
+#### The experiment continues
 
-And I'd like to have your feedback and input, too: What do you think about the Canvas? Does it work for your case? Or are you feeling/knowing something important is missing if you model through that? Please let me know, through the comments here, Github Issues or an email directly (<ben [at] create-build-execute [dot] com>).
+Though I am quite happy with the state the Tech Creationist Canvas is at right now, I do consider it living experiment, too. Over the next couple of weeks I will use the Tech Creationist Canvas to describe existing (and upcoming) tech ventures in a series about OpenSource and Community-driven Businesses. If you want to see the Canvas in action, wait for what's coming.
 
+**I'd like to have your feedback and input**, too: What do you think about the Canvas? Does it work for your case? Or are you feeling/knowing something important is missing if you model through that? Please let me know, through the comments here, [Github Issues](https://github.com/ligthyear/tech-creationist-canvas/issues) or [emailed directly](mailto:ben[at]create-build-execute[dot]com).
+
+---
+
+**Read Next**
+
+ - [The Principles of The Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/)
+ - [The Tech Creationist Canvas explained](/2014/08/19/tech-creationist-canvas-explained/)
+ - [The Tech Creationist Canvas editor user manual](/2014/08/19/the-tech-creationist-canvas-editor/)
+
+---
 
 
 
