@@ -73,7 +73,7 @@ This data feature is also used to allow for easy embedding. Just click on the `e
 
 ## Collaboration
 
-The editor is open source and on Github. It is licensed under BSD. Please feel free to open Issue or Send Pull-Requests. And of course share your feedback, tips and tricks or how you are using it either here in the comments or [directly via email](mailto:ben[at]create-build-execute[dot]com). Any feedback highly appreciated!
+The editor is [open source and on Github](https://github.com/ligthyear/tech-creationist-canvas). It is licensed under BSD. Please feel free to open Issue or Send Pull-Requests. And of course share your feedback, tips and tricks or how you are using it either here in the comments or [directly via email](mailto:ben[at]create-build-execute[dot]com). Any feedback highly appreciated!
 
 
 ---
