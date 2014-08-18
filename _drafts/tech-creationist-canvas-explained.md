@@ -49,7 +49,7 @@ I also find it very helpful to put up some form of ETA for the initial build, le
 
 Once an initial build is finished (or close to finished), we always raise the question of how to grow and sustain it. This question comes way to late. Being used to very fast feedback loops, too much technology is abandoned because the initial launch didn't yield the immediate positive feedback the founders hoped for. Think early about how the technology will be grown and sustained. Think early about how to deploy the software to the benefactors and which key partners to talk to already. Even if it isn't ready yet, a prototype is often enough to get a NGO going on their internal processes to help you out. Which in turn will drive you in really getting it done and deployed.
 
-Executing often takes longer than building and you want to get any help you can get for that. Looking and starting on that early on will increase the chances to make your impact by far. In this section you constantly update what you think the costs of growing (in both time and money) and sustaining the project are and how you think of covering those. This includes any marketing or education costs, everything that is necessary to deploy the technology to gain the desired impact.
+Executing takes longer than building and you want to get any help you can get for that. Looking and starting on that early on will increase the chances to make your impact by far. In this section you constantly update what you think the costs of growing (in both time and money) and sustaining the project are and how you think of covering those. This includes any marketing or education costs, everything that is necessary to deploy the technology to gain the desired impact.
 
 ---
 
