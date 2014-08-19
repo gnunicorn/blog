@@ -167,7 +167,7 @@ p.centered {
 	color: #3A87AD;
 }
 
-.post-content a.cta-button {
+.post-content a.cta-button, a.canvas-cta-button {
   -webkit-border-radius: 36;
   -moz-border-radius: 36;
   border-radius: 36px;
@@ -183,7 +183,7 @@ p.centered {
   font-family: sans-serif;
 }
 
-.post-content a.cta-button:hover {
+.post-content a.cta-button:hover, a.canvas-cta-button:hover {
   background: #3A87AD;
   color: white;
   text-decoration: none;
