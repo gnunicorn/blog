@@ -80,7 +80,7 @@ The editor is [open source and on Github](https://github.com/ligthyear/tech-crea
 
 **Read Next**
 
- - [Introducing the Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/)
+ - [Introducing the Tech Creationist Canvas](/2014/08/19/introducing-the-tech-creationist-canvas/)
  - [The Principles of The Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/)
  - [The Tech Creationist Canvas explained](/2014/08/19/tech-creationist-canvas-explained/)
 

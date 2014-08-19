@@ -38,7 +38,7 @@ Through all of these factors the Tech Creationist Canvas is a tool to support th
 
 **Read Next**
 
- - [Introducing the Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/)
+ - [Introducing the Tech Creationist Canvas](/2014/08/19/introducing-the-tech-creationist-canvas/)
  - [The Tech Creationist Canvas explained](/2014/08/19/tech-creationist-canvas-explained/)
  - [The Tech Creationist Canvas editor user manual](/2014/08/19/the-tech-creationist-canvas-editor/)
 

@@ -55,7 +55,7 @@ Executing takes longer than building and you want to get any help you can get fo
 
 **Read Next**
 
- - [Introducing the Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/)
+ - [Introducing the Tech Creationist Canvas](/2014/08/19/introducing-the-tech-creationist-canvas/)
  - [The Principles of The Tech Creationist Canvas](/2014/08/19/tech-creationist-canvas-the-principles/)
  - [The Tech Creationist Canvas editor user manual](/2014/08/19/the-tech-creationist-canvas-editor/)
 
