@@ -21,7 +21,7 @@ Also think about the alternatives: how are people scratching that itch at the mo
 
 ## Benefactors
 
-Here you should think of the **benefactors** of the technology in question: Who has this problem, for whom is this a really big issue? Think outside of the general scope, think about people and organisation for whom such a technology has the biggest impact. Those are the ones with the strongest need for it. In a second step think about the solution and who else might benefit from that. There might be third parties which aren't primary benefactors of the technology but through its impact become interested in helping or aiding it.
+Here you should think of the **benefactors** of the technology in question: Who has this problem, for whom is this a really big issue? Think outside of the general scope, think about people and organisation for whom such a technology has the biggest impact. Those are the ones with the strongest need for it. In a second step think about the solution and who else might benefit from that. There might be third parties that aren't primary benefactors of the technology, but through its impact could become interested in helping it grow.
 
 These are the people you should and want to build the technology for – UI and UX-Wise. Always keep them in mind as the users or supporters of your technology. The technology is for them. It doesn't matter if you build the best technology in the world, if they can't afford it or use it (because there is no electricity or internet in your target region), the technology is useless.
 
@@ -29,7 +29,7 @@ Among those Benefactors think about the **key partners**. Those who have already
 
 ## Channels
 
-These Benefactors you've specified, how will they learn about and get access to your solution for their problem. Is that through public advertising, distribution networks or maybe non-profits on the ground? Think closely about this question as it has an impact on how to build the technology, too. If you will have to distribute CDs then a continuous development system simply won't work in your favour.
+The Benefactors you've specified, how will they learn about and get access to your solution for their problem. Is that through public advertising, distribution networks or maybe non-profits on the ground? Think closely about this question as it has an impact on how to build the technology, too. If you will have to distribute CDs then a continuous development system simply won't work in your favour.
 
 _Word of advise_: Just "putting it out there" doesn't work. You need to spread the word and make it accessible. Even in the world of app markets people don't just stumble over a great solution and start using it. There is just too much noise.
 
@@ -47,7 +47,7 @@ I also find it very helpful to put up some form of ETA for the initial build, le
 
 ## Execution Costs
 
-Once an initial build is finished (or close to finished), we always raise the question of how to grow and sustain it. This question comes way to late. Being used to very fast feedback loops, too much technology is abandoned because the initial launch didn't yield the immediate positive feedback the founders hoped for. Think early about how the technology will be grown and sustained. Think early about how to deploy the software to the benefactors and which key partners to talk to already. Even if it isn't ready yet, a prototype is often enough to get a NGO going on their internal processes to help you out. Which in turn will drive you in really getting it done and deployed.
+Once an initial build is finished (or close to finished), we always raise the question of how to grow and sustain it. This question comes way too late. Being used to very fast feedback loops, too much technology is abandoned because the initial launch didn't yield the immediate positive feedback the founders hoped for. Think early about how the technology will be grown and sustained. Think early about how to deploy the software to the benefactors and which key partners to talk to already. Even if it isn't ready yet, a prototype is often enough to get a NGO going on their internal processes to help you out. Which in turn will drive you in really getting it done and deployed.
 
 Executing often takes longer than building and you want to get any help you can get for that. Looking and starting on that early on will increase the chances to make your impact by far. In this section you constantly update what you think the costs of growing (in both time and money) and sustaining the project are and how you think of covering those. This includes any marketing or education costs, everything that is necessary to deploy the technology to gain the desired impact.
 
