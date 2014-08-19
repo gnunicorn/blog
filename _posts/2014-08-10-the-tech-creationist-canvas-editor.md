@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech Creationist Canvas Editor"
-description: ""
+description: "This article covers the nitty gritty of the free and open source [Tech Creationist Editor](http://canvas.create-build-execute.com/) to help you build your own tech venture describing canvas. It will cover teh yaml format used, how to use git to keep it in version control and tie the renderer up with it. On top it will explain advanced features like sharing of custom states, embedding via iframes and how you can contribute yourself."
 tags: ["create build execute", "tech creationist canvas", "business model canvas", "cbe", "lean startup canvas", "lean startup"]
 date: 2014-08-19
 ---

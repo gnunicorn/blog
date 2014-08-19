@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech Creationist Canvas: The Principles"
-description: ""
+description: "To be able to use the Tech Creationist Canvas to its full extend, you should understand the underlying ideas and principles. This article covers them and will explain to you what I mean when I say it is iterative, purpose driven, aware of the structures and knows its target group. The article also clearly states the goal I have behind building, maintaining and promoting the Tech Creationist Canvas and its methods. "
 tags: ["create build execute", "tech creationist canvas", "business model canvas", "cbe", "lean startup canvas", "lean startup", "principles"]
 date: 2014-08-19
 ---

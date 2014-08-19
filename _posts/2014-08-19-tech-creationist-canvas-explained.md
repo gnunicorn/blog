@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "The Tech Creationist Canvas explained"
-description: ""
+description: "The Tech Creationist Canvas is a one page canvas with specific sections asking you to answer various aspects of the tech venture you are building or thinking of building. The top area focusses on the general aspects, divided in a left \"technology\" side and the right \"deployment\" side. On the bottom you find the structural questions divided into the build on the left and the sustain on the right. All this surrounds the heart of the canvas: the purpose.
+
+Each box should be filled in with the main aspects to take into consideration – order by importance. Let's look at each box individually and how they help you."
+
 tags: ["create build execute", "tech creationists canvas", "business model canvas", "cbe", "lean startup canvas", "lean startup"]
 date: 2014-08-19
 ---
