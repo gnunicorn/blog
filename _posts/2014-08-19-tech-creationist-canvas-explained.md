@@ -6,7 +6,7 @@ description: "The Tech Creationist Canvas is a one page canvas with specific sec
 Each box should be filled in with the main aspects to take into consideration – order by importance. Let's look at each box individually and how they help you."
 
 tags: ["create build execute", "tech creationists canvas", "business model canvas", "cbe", "lean startup canvas", "lean startup"]
-date: 2014-08-19
+date: 2014-08-19 16:50
 ---
 {% include JB/setup %}
 

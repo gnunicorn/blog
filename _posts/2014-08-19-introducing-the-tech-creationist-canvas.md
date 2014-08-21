@@ -3,7 +3,7 @@ layout: post
 title: "Introducing: the Tech Creationist Canvas"
 description: "Over the last couple of weeks I've taken a deeper look into the [Lean Startup Canvas](http://practicetrumpstheory.com/2012/02/why-lean-canvas/). It is an great tools to gauge risks and evaluate business models and is widely used in tech. However, I came to the conclusion that for developer-driven tech ventures it [isn't only a bad fit](/2014/07/21/warning-lean-startup-canvas-may-derail-your-tech-venture), it is [outright harmful](/2014/07/28/lean-startup-canvas-the-wrong-tool). Today I want to share with you an alternative approach."
 tags: ["create build execute", "tech creationist canvas", "business model canvas", "cbe", "lean startup canvas", "lean startup"]
-date: 2014-08-19
+date: 2014-08-19 18:10
 image: /assets/content/posts/tech-creationist-canvas.png
 ---
 {% include JB/setup %}
